@@ -1,0 +1,1 @@
+https://github.com/mainlp/TruthQuest/blob/main/gen_data.py

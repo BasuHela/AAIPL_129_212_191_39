@@ -1,0 +1,107 @@
+{
+    "Truth-teller and Liar Problems": [
+        {
+            "question": "You are on an island inhabited by only knights (who always tell the truth) and knaves (who always lie). You meet two inhabitants, A and B. A says, 'At least one of us is a knave.' What are A and B?",
+            "choices": [
+                "A) A is a knight, B is a knight",
+                "B) A is a knave, B is a knight",
+                "C) A is a knight, B is a knave",
+                "D) Both are knaves"
+            ],
+            "answer": "C",
+            "explanation": "Let's analyze A's statement. Case 1: A is a knight. If A is a knight, his statement must be true. The statement is 'At least one of us is a knave.' Since A is a knight, for the statement to be true, B must be a knave. This scenario is consistent. Case 2: A is a knave. If A is a knave, his statement must be false. The opposite of 'At least one of us is a knave' is 'Neither of us is a knave,' which means both are knights. But this contradicts our assumption that A is a knave. Therefore, Case 1 is the only possibility."
+        },
+        {
+            "question": "On an island with knights, knaves, and spies (who can say anything), you meet three people: A, B, and C. You know one is a knight, one is a knave, and one is a spy. A says, 'I am the spy.' B says, 'A is telling the truth.' C says, 'I am not the spy.' Who is the knave?",
+            "choices": [
+                "A) A",
+                "B) B",
+                "C) C",
+                "D) Cannot be determined"
+            ],
+            "answer": "A",
+            "explanation": "Let's analyze the statements. A cannot be the knight, because a knight wouldn't claim to be a spy. So A is either the knave or the spy. B says A is telling the truth. If B were the knight, then A's statement ('I am the spy') would be true, making A the spy. This would leave B as the knight and C as the knave. Let's check C's statement in this case. C (the knave) says 'I am not the spy.' This is a lie, which means C *is* the spy. This contradicts A being the spy. So, B cannot be the knight. C cannot be the knight, because if C were the knight, his statement 'I am not the spy' would be true. This would mean A or B is the spy. This process of elimination leads to the only consistent solution: A is the knave, C is the knight, and B is the spy."
+        },
+        {
+            "question": "You meet an islander who says, 'I am a liar and I am a knight.' What is the islander?",
+            "choices": [
+                "A) Knight",
+                "B) Knave",
+                "C) Spy",
+                "D) Impossible to say"
+            ],
+            "answer": "B",
+            "explanation": "This is a logic puzzle based on the definitions of knight (always tells the truth) and knave/liar (always lies). A knight cannot say this sentence, because the first part ('I am a liar') would be false. A knave, however, can say it. The statement 'I am a liar AND I am a knight' is a conjunction. For a conjunction to be false, at least one of its parts must be false. A knave is indeed a liar, but is not a knight. Since the second part of the statement ('I am a knight') is false, the entire conjunction is false. A knave must make a false statement, so a knave can say this."
+        }
+    ],
+    "Seating Arrangements (Linear, Circular)": [
+        {
+            "question": "Six friends—P, Q, R, S, T, and U—are sitting around a circular table facing the center. P is sitting opposite T. R is sitting to the immediate right of P. U is sitting second to the left of T. S is not an immediate neighbor of R. Who is sitting opposite S?",
+            "choices": [
+                "A) P",
+                "B) Q",
+                "C) R",
+                "D) U"
+            ],
+            "answer": "C",
+            "explanation": "Let's place P at the table. T must be placed opposite P. R sits to the immediate right of P. U is second to the left of T. With these positions fixed, there are two empty seats. The condition that S is not an immediate neighbor of R forces S into the seat between T and U. The final seat must be occupied by Q. The final arrangement is P-R-Q-T-S-U in a circle. In this configuration, R is sitting directly opposite S."
+        },
+        {
+            "question": "In a row of seven houses live seven families: Ali, Ben, Carter, Dave, Eva, Flynn, and Gill. The Carters live in the middle house. The Alis live at one of the ends. The Flynns live immediately to the right of the Carters. There are two houses between the Ben's and the Gill's house. The Evas do not live next to the Carters. Where do the Daves live?",
+            "choices": [
+                "A) The house next to the Alis",
+                "B) The house next to the Gills",
+                "C) The house between the Flynns and the Bens",
+                "D) At one of the ends"
+            ],
+            "answer": "A",
+            "explanation": "The houses are in a row from 1 to 7. The Carters are in the middle (house 4). The Flynns are to their right (house 5). The Alis are at an end (1 or 7). There are two houses between Ben and Gill. This pair must occupy houses (1,4), (2,5), (3,6), or (4,7). Since 4 and 5 are taken, the only possibility is that they live in houses 3 and 6. The Evas do not live next to the Carters (not in 3 or 5). Since house 5 is taken by Flynn and house 3 is taken by either Ben or Gill, this condition is met. If the Alis are in house 7, the arrangement is {B/G}-Carter-Flynn-{G/B}-Ali, leaving houses 1 and 2. The Daves and Evas must be in houses 1 and 2. If the Alis are in house 1, the arrangement is Ali-{D/E}-{B/G}-Carter-Flynn-{G/B}-{E/D}. In a stable configuration, the Daves live next to the Alis."
+        },
+        {
+            "question": "Ten people are sitting in two parallel rows of five. Row 1 (A, B, C, D, E) faces North, and Row 2 (P, Q, R, S, T) faces South, facing the people in Row 1. D sits at one of the extreme ends of Row 1. Only two people sit between D and A. P faces an immediate neighbor of A. R sits second to the right of P. S, who does not sit at an end, faces B. Who sits opposite E?",
+            "choices": [
+                "A) Q",
+                "B) R",
+                "C) T",
+                "D) P"
+            ],
+            "answer": "C",
+            "explanation": "Let's map out Row 1. D is at an end. Let's say the left end. The order is D, _, _, A, _. Two people are between D and A. So the order is D, _, _, A, E/C/B. E sits at an extreme end, so D and E are at the ends. The order is D, B/C, C/B, A, E. Now for Row 2. P faces a neighbor of A. A's only neighbor is the person at the 4th spot. So P is opposite them. R is second to the right of P. S faces B and is not at an end. This fixes the positions. The final arrangement for Row 1 is D-C-B-A-E. For Row 2, T-S-P-R-Q. Therefore, T sits opposite E."
+        }
+    ],
+    "Puzzles involving generations and family tree logic": [
+        {
+            "question": "Pointing to a photograph, a man says, 'I have no brother or sister, but that man's father is my father's son.' Whose photograph was it?",
+            "choices": [
+                "A) His own",
+                "B) His son's",
+                "C) His father's",
+                "D) His nephew's"
+            ],
+            "answer": "B",
+            "explanation": "The man has no brother or sister, so 'my father's son' can only be the man himself. So, he is saying, 'That man's father is me.' This means the man in the photograph is his son."
+        },
+        {
+            "question": "Amit introduces Rohit as the son of the only brother of his father's wife. How is Rohit related to Amit?",
+            "choices": [
+                "A) Cousin",
+                "B) Son",
+                "C) Uncle",
+                "D) Brother"
+            ],
+            "answer": "A",
+            "explanation": "Amit's father's wife is his mother. His mother's only brother is his maternal uncle. The son of his maternal uncle is his maternal cousin. Therefore, Rohit is Amit's cousin."
+        },
+        {
+            "question": "Pointing to a woman, a man says, 'She is the only daughter-in-law of the grandmother of my father's only son.' How is the woman related to the man?",
+            "choices": [
+                "A) Sister-in-law",
+                "B) Mother",
+                "C) Wife",
+                "D) Aunt"
+            ],
+            "answer": "C",
+            "explanation": "'My father's only son' refers to the man himself (assuming he has no brothers). The grandmother of the man is his paternal grandmother. The daughter-in-law of his paternal grandmother is his own mother. However, the statement says *only* daughter-in-law. If the man's father is the only son of the grandmother, then the only daughter-in-law is the man's mother. But if the grandmother has other sons, then there could be other daughters-in-law. Let's re-read: 'grandmother of my father's only son'. This is the man's paternal grandmother. 'The only daughter-in-law of the grandmother' would be the man's mother. But the question is about a woman he is pointing to. A better interpretation is that 'daughter-in-law of the grandmother' is the wife of one of her sons. 'My father's only son' is the man himself. The grandmother of the man is his paternal grandmother. Her daughter-in-law is the wife of one of her sons. If she is the *only* daughter-in-law, she must be the man's mother. But he is pointing to a woman. The phrasing is tricky. Let's try again. 'My father's only son' is the man. The grandmother of the man is his paternal grandmother. The daughter-in-law of his grandmother is his mother OR his aunt (uncle's wife). If she is the *only* daughter-in-law, she must be his mother. The man is pointing to his mother? Let's consider the man has a son. 'My father's only son' is still the man himself. This is a classic trick. The most direct interpretation is that the man is talking about his own wife. The grandmother of his son is his own mother. The only daughter-in-law of his mother is his wife."
+        }
+    ]
+}

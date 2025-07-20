@@ -1,0 +1,181 @@
+[
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight friends A, B, C, D, E, F, G, H sit around a circular table, 4 face center, 4 face outward. A is 3rd left of B (outward). C is next to D. E is 2nd right of F (center). G is not next to A. H is opposite B. Who is 2nd left of G?",
+    "choices": [
+      "A) A",
+      "B) C",
+      "C) E",
+      "D) F"
+    ],
+    "answer": "B",
+    "explanation": "Place B (outward) and A. H is opposite B. Place F (center) and E. C and D are together. G not next to A. Deduce positions to find C is 2nd left of G."
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Six students P, Q, R, S, T, U are in a row facing North. R is at one end. Q is 2nd right of R. S is immediately left of T. U is not next to Q. P is 3rd left of T. Who is at the leftmost end?",
+    "choices": [
+      "A) P",
+      "B) Q",
+      "C) S",
+      "D) U"
+    ],
+    "answer": "A",
+    "explanation": "R at right end, Q 2nd right. S left of T. P 3rd left of T. U not next to Q. This leads to P, U, S, T, Q, R. P is at the leftmost end."
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Seven people V, W, X, Y, Z, A, B sit around a circular table, all facing center. W is 2nd right of X. Y is 3rd left of Z. A is not next to W. B is between Y and V. X is immediately left of A. Who is opposite V?",
+    "choices": [
+      "A) W",
+      "B) X",
+      "C) Z",
+      "D) A"
+    ],
+    "answer": "A",
+    "explanation": "Place X, W, and A. Then Y, Z, and B between Y and V. All face center. The arrangement shows W is opposite V."
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Five friends C, D, E, F, G stand in a line. D is not at any end. F is immediately left of G. C is 2nd right of E. D is 2nd from the right. Who is at the leftmost position?",
+    "choices": [
+      "A) C",
+      "B) D",
+      "C) E",
+      "D) F"
+    ],
+    "answer": "C",
+    "explanation": "D is 2nd from right: _ _ _ D _. F is left of G. C is 2nd right of E. The sequence must be E, C, F, G, D. E is at the leftmost position."
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight employees J-Q sit around a square table (4 corners, 4 sides). Corners face in, sides face out. K is 2nd left of L (corner). M faces out. N is not next to J. O is 3rd right of P (side). Q is next to R (corner). Who is opposite M?",
+    "choices": [
+      "A) J",
+      "B) K",
+      "C) L",
+      "D) P"
+    ],
+    "answer": "B",
+    "explanation": "Place L (corner) and K. P is at a side, O 3rd right of P. M faces out. Q next to R (corner). N not next to J. The arrangement places K opposite M."
+  },
+{
+
+"topic": "Seating Arrangements (Linear, Circular)",
+
+"question": "Eight friends P, Q, R, S, T, U, V, W sit around a circular table, all facing center. Q is 2nd right of R, who is left of S. T is not next to P. V is 3rd left of P. W is between S and V. Who is opposite U?",
+
+"choices": [
+
+"A) P",
+
+"B) Q",
+
+"C) R",
+
+"D) S"
+
+],
+
+"answer": "A",
+
+"explanation": "By placing R, S, and Q, then W between S and V, and V relative to P, the arrangement reveals U is opposite P."
+
+},
+
+{
+
+"topic": "Seating Arrangements (Linear, Circular)",
+
+"question": "Six people A, B, C, D, E, F sit in a row facing North. C is at an end. A is 2nd left of C. B is right of D. F is not at any end. Who is 2nd right of E?",
+
+"choices": [
+
+"A) A",
+
+"B) B",
+
+"C) C",
+
+"D) D"
+
+],
+
+"answer": "A",
+
+"explanation": "C must be at the right end for A to be 2nd left. Placing D, B, and F (not at end) leads to the order D, B, E, F, A, C. A is 2nd right of E."
+
+},
+
+{
+
+"topic": "Seating Arrangements (Linear, Circular)",
+
+"question": "Seven friends J, K, L, M, N, O, P sit around a circular table; 4 face center, 3 face outward. K is 3rd right of J (outward). M is not next to J or K. L is 2nd left of N. O is next to K (center). P faces outward. Who is right of O?",
+
+"choices": [
+
+"A) J",
+
+"B) L",
+
+"C) M",
+
+"D) N"
+
+],
+
+"answer": "B",
+
+"explanation": "Start with J (outward) and K. Place O (center) next to K. Use M's exclusion and P's outward facing. L and N's relation completes the circle, showing L is right of O."
+
+},
+
+{
+
+"topic": "Seating Arrangements (Linear, Circular)",
+
+"question": "Five students R, S, T, U, V stand in a line. T is not next to S. R is at one end. U is between R and S. V is not at an end. Who is 2nd from the right end?",
+
+"choices": [
+
+"A) R",
+
+"B) S",
+
+"C) T",
+
+"D) U"
+
+],
+
+"answer": "B",
+
+"explanation": "R at an end, U between R and S implies R-U-S. V not at end means S-V. T not next to S means T is at the other end. Order: R-U-S-V-T. S is 2nd from right."
+
+},
+
+{
+
+"topic": "Seating Arrangements (Linear, Circular)",
+
+"question": "Eight people A-H sit around a square table (4 corners, 4 sides). Corners face out, sides face in. D is 3rd right of G (center). E faces out. H not next to D. B is 2nd left of F. C is next to A (out). Who is opposite B?",
+
+"choices": [
+
+"A) A",
+
+"B) D",
+
+"C) E",
+
+"D) G"
+
+],
+
+"answer": "B",
+
+"explanation": "G is at a side (center), so D is at a corner (out). A and E are at corners (out). C is next to A. B is 2nd left of F. H not next to D. This arrangement places D opposite B."
+
+}
+]

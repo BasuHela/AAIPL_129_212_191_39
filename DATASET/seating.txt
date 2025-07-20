@@ -1,0 +1,1473 @@
+[
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "Directions (Q. 1-5) Study the following information to answer the given questions. There are 9 friends A, B, C, D, E, F, G, H seated in a circle facing the centre. AC, DG, HE and FB are seated adjacent to each other. A is also seated adjacent to H. B is 2nd to the right of H. E is 3rd to the right of C. 1. Who is 2nd to the left of A?",
+    "choices": [
+      "A) D",
+      "B) G",
+      "C) F",
+      "D) Cannot be determined"
+    ],
+    "answer": "D"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "2. Who is 3rd to the left of C?",
+    "choices": [
+      "A) G",
+      "B) D",
+      "C) B",
+      "D) Cannot be determined"
+    ],
+    "answer": "D"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "3. What is C's position with reference to E?",
+    "choices": [
+      "A) 5th to the right",
+      "B) 4th to the left",
+      "C) 4th to the right",
+      "D) 3rd to the right"
+    ],
+    "answer": "E"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "4. Who is 2nd to the right of A?",
+    "choices": [
+      "A) B",
+      "B) E",
+      "C) F",
+      "D) Cannot be determined"
+    ],
+    "answer": "D"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "5. Who among the following pairs may not be seated adjacent to each other?",
+    "choices": [
+      "A) AH",
+      "B) DC",
+      "C) EB",
+      "D) Cannot be determined"
+    ],
+    "answer": "E"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "Directions (Q. 6-11) Read the following information carefully and answer the questions that follow. Seven friends A, B, C, D, E, F and G are sitting around a circular table facing either the centre or outside. Each one of them belongs to a different department viz. Finance, Marketing Sales, HR, Corporate Finance, Investment Banking and Operations but not necessarily in the same order. C sits third to the right of G. G faces the centre. Only one person sits between C and the person working in the HR department immediate neighbours of C face outside. Only one person sits between F and D. Both F and D face the centre. D does not work in the HR department. A works in Investment Banking Department. A faces the centre. Two people sit between the persons who work in Investment Banking and Marketing Departments. The person who works in Corporate Finance sits to the immediate left of E. C faces same direction as E. The person who works in corporate finance sits to the immediate left of the person who works for Operations Department. 6. For which of the following departments does B work?",
+    "choices": [
+      "A) Finance",
+      "B) Marketing",
+      "C) HR",
+      "D) Corporate Finance",
+      "E) Operations"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "7. What is position of B with respect to the person who works for Sales Department?",
+    "choices": [
+      "A) Immediate right",
+      "B) Third to the left",
+      "C) Second to the right",
+      "D) Second to the left",
+      "E) Fourth to the right"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "8. Who sits to the immediate right of E?",
+    "choices": [
+      "A) The person who works for Marketing Department",
+      "B) C",
+      "C) B",
+      "D) The person who works for HR Department",
+      "E) A"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "9. Who amongst the following sits exactly between C and the person who works for HR Department?",
+    "choices": [
+      "A) B",
+      "B) The person who works for Marketing Department",
+      "C) The person who works for Operation Exams Today.com",
+      "D) D",
+      "E) G"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "10. Who amongst the following sit between the persons who work for Marketing and Investment Banking departments when counted for the left hand side of the person working for Marketing Department?",
+    "choices": [
+      "A) F and G",
+      "B) E and C",
+      "C) C and B",
+      "D) F and D",
+      "E) B and D"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "11. How many people sit between the person who workds for Operations Department and A, when counted from the right hand side of A?",
+    "choices": [
+      "A) One",
+      "B) Two",
+      "C) Three",
+      "D) Four",
+      "E) None of these"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Linear)",
+    "Seating Arrangements (Linear, Circular)": "Directions (Q. 12-19) Read the following information carefully to answer the given questions. Eight persons from different banks viz., Bank of India, Punjab National Bank, Canara Bank, Bank of Baroda, Oriental Bank of Commerce, Dena Bank, Union Bank of India and Bank of Maharashtra are sitting in two parallel rows containing four people each, in such a way that there is an equal distance between adjacent persons. The names of these persons are A, B, C, D, E, F, G and H. Each members seated in a row faces another member of the other row. (All the information given above does not necessarily represents the order of seating as in the final arrangement) A faces north and seated second to the left of the person, who is from Punjab National Bank. The person from Oriental Bank of Commerce is opposite to one who is second to the left of H. The persons from Bank of Baroda is not near to H and F and not at the end of the row. The person from Canara Bank is opposite to the person who is from Dena Bank. The person from Bank of India is not at the end of the row but left of the person who is from Canara Bank. D is immediately right of the person who is from Bank of Maharashtra. The person from Canara Bank faces north while D faces South and opposite to B. The person from Union Bank of India is not opposite to E. The person from Canara Bank is opposite to C. 12. Which of the following is true regarding E?",
+    "choices": [
+      "A) The person from Bank of Maharashtra faces E",
+      "B) The person from Dena Bank is an immediate neighbour of E",
+      "C) The person who is second to the right of G faces E",
+      "D) E is from Union Bank of India",
+      "E) E sits at one of the extreme end of the row"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Linear)",
+    "Seating Arrangements (Linear, Circular)": "13. Who is seated between G and the person from Bank of Maharashtra?",
+    "choices": [
+      "A) The person from Bank of Baroda",
+      "B) H",
+      "C) F",
+      "D) E",
+      "E) The person from Dena Bank"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Linear)",
+    "Seating Arrangements (Linear, Circular)": "14. Who amongst the following sit at extrememe end of the row?",
+    "choices": [
+      "A) A and the person from Bank of Maharashtra",
+      "B) The person from Punjab National Bank and Union Bank of India",
+      "C) The person from Dena Bank and E",
+      "D) The person from Union Bank of India and C",
+      "E) G and B"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Linear)",
+    "Seating Arrangements (Linear, Circular)": "15. Who amongst the following faces the person from Bank of Baroda?",
+    "choices": [
+      "A) The person from Bank of India",
+      "B) F",
+      "C) A",
+      "D) The person from Union Bank of India",
+      "E) The person from Oriental Bank of Commerce"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Linear)",
+    "Seating Arrangements (Linear, Circular)": "16. 'B' is related to 'Dena Bank' in the same way as 'F' is related to 'Bank of Baorda' on the given arrangement, who amongst the following is 'G' related to following the same pattern?",
+    "choices": [
+      "A) Oriental Bank of Commerce",
+      "B) Punjab National Bank",
+      "C) Bank of India",
+      "D) Canara Bank",
+      "E) Union Bank of India"
+    ],
+    "answer": "E"
+  },
+  {
+    "topic": "Seating Arrangements (Linear)",
+    "Seating Arrangements (Linear, Circular)": "17. Four of the following five are alike in a certain way based on the given seating arrangement and thus form a group, which is the one that does not belong to that group?",
+    "choices": [
+      "A) Canara Bank",
+      "B) C",
+      "C) Union Bank of India",
+      "D) Oriental Bank of Commerce",
+      "E) Bank of Maharashtra"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Linear)",
+    "Seating Arrangements (Linear, Circular)": "18. G is from which of the following banks?",
+    "choices": [
+      "A) Oriental Bank of Commerce",
+      "B) Dena Bank",
+      "C) Bank of Maharashtra",
+      "D) Canara Bank",
+      "E) Punjab National Bank"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Linear)",
+    "Seating Arrangements (Linear, Circular)": "19. Who amongst the following is from Punjab National Bank?",
+    "choices": [
+      "A) E",
+      "B) H",
+      "C) G",
+      "D) C",
+      "E) None of these"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Linear)",
+    "Seating Arrangements (Linear, Circular)": "Directions (Q. 20-26) Study the following information carefully to answer the questions that follows. Eight persons namely A, B, C, D, E, F, G and H are sitting in a straight line from East to West. Some are facing North direction and some are facing South direction. H sits to the third left of C and faces South. F is sitting at one of the extreme ends and is facing North. B and G are facing in same direction and person sitting between them is facing in opposite direction. A is sitting third from left end and is facing South direction. A is sitting adjacent to E and both are facing in opposite direction. D is sitting to the right of B and both are facing in same direction. C is facing in North direction. A and D are not neighbours. Neighbors of H are facing in same direction which is opposite to the direction of H is facing. E sits to the right of A. 20. Who is sitting between A and H?",
+    "choices": [
+      "A) F",
+      "B) E",
+      "C) G",
+      "D) B",
+      "E) None of these"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Linear)",
+    "Seating Arrangements (Linear, Circular)": "21. Which of the following pairs has the person facing the same direction?",
+    "choices": [
+      "A) E, A",
+      "B) G, H",
+      "C) A, G",
+      "D) H, D",
+      "E) B, D"
+    ],
+    "answer": "E"
+  },
+  {
+    "topic": "Seating Arrangements (Linear)",
+    "Seating Arrangements (Linear, Circular)": "22. How many persons are facing in North direction?",
+    "choices": [
+      "A) 2",
+      "B) 3",
+      "C) 4",
+      "D) 5",
+      "E) 6"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Linear)",
+    "Seating Arrangements (Linear, Circular)": "23. Who is sitting third from the eastern end of the arrangement?",
+    "choices": [
+      "A) E",
+      "B) G",
+      "C) B",
+      "D) C",
+      "E) None of these"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Linear)",
+    "Seating Arrangements (Linear, Circular)": "24. How many persons are sitting between E and B?",
+    "choices": [
+      "A) 2",
+      "B) 3",
+      "C) 4",
+      "D) 5",
+      "E) 6"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Linear)",
+    "Seating Arrangements (Linear, Circular)": "25. Which one of the following statement is correct?",
+    "choices": [
+      "A) A sits between G and B",
+      "B) D sits to the second left of H",
+      "C) H and B are facing same direction",
+      "D) Person sitting to the left of A faces direction",
+      "E) All of the above"
+    ],
+    "answer": "E"
+  },
+  {
+    "topic": "Seating Arrangements (Linear)",
+    "Seating Arrangements (Linear, Circular)": "26. Who sits 3rd to the left of A?",
+    "choices": [
+      "A) B",
+      "B) D",
+      "C) H",
+      "D) G",
+      "E) None of these"
+    ],
+    "answer": "D"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "Directions (Q. 27-31) Study the following information and answer the question given below. Eight people E, F, G, H, J, K, L and M are sitting around a circular table facing the centre. Each of them is of a different profession Chartered Accountant, Colomnist, Doctor, Engineer, Financial Analyst, Lawyer, Professor and Scientist but not necessarily in the same order. F is sitting second to the left of K. The Scientist is an immediate neighbour of K. There are only three people between the Scientist and E. Only one person sits between the Engineer and E. The Coloumnist is to the immediate right of the Engineer. M is second to the right of K. H is the Scientist. G and J are immediate neighbours of each other. Neither G nor J is an Engineer. The Financial Analyst is to the immediate left of F. The Lawyer is second to the right of the Coloumnist. The Professor is an immediate neighbour of the Engineer. G is second to the right of the Chartered Accountant. 27. Who is sitting second to the right of E?",
+    "choices": [
+      "A) The Lawyer",
+      "B) G",
+      "C) The Engineer",
+      "D) F",
+      "E) K"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "28. Who amongst the following is the Professor?",
+    "choices": [
+      "A) F",
+      "B) L",
+      "C) M",
+      "D) K",
+      "E) None of these"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "29. Four of the following five are alike in a certain way based on the given arrangement and hence from a group. Which of the following does not belong to that group?",
+    "choices": [
+      "A) Chartered Accountant",
+      "B) M - Doctor",
+      "C) J - Engineer",
+      "D) Financial Analyst - L",
+      "E) K - Professor"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "30. What is the position of L with respect to the Scientist?",
+    "choices": [
+      "A) Third to the left",
+      "B) Second to the right",
+      "C) Second to the left",
+      "D) Third to the right",
+      "E) Immediate right"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "31. Which of the following statements is true according to the given arrangement?",
+    "choices": [
+      "A) The Lawyer is second to the left of the Doctor",
+      "B) E is an immediate neighbour of the Financial Analyst",
+      "C) H sits exactly between F and the Financial Analyst",
+      "D) Only four people sit between the Coloumnist and F",
+      "E) All of the given statements are true"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "Directions (Q. 32-36) Study the following information carefully and answer the given questions:- D, E, F, H and I are seated in a circle facing the centre. A, B and C are also seated in the same circle but two of them are not facing the centre. F is second to the left of C. E is third to the right of A. B is third to left of D, who is immediate neighbor of H and I. C is second to the right of D and third to the right of B. 32. Which of the following pairs is not facing the centre?",
+    "choices": [
+      "A) BC",
+      "B) AC",
+      "C) CA",
+      "D) BD",
+      "E) None of these"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "33. What is the position of D with respect to F?",
+    "choices": [
+      "A) Second to the right",
+      "B) Third to the left",
+      "C) Fifth to the right",
+      "D) Cannot be determined",
+      "E) None of these"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "34. Who among the following is second to the left of B?",
+    "choices": [
+      "A) A",
+      "B) H",
+      "C) I",
+      "D) Either H or I",
+      "E) None of these"
+    ],
+    "answer": "D"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "35. If H is on the immediate right of E then what is H's position with respect to C?",
+    "choices": [
+      "A) Third to the left",
+      "B) Third to the right",
+      "C) Fifth to the left",
+      "D) Cannot be determined",
+      "E) None of these"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "36. Which of the following is/are the possible position(s) of I with respect to A?",
+    "choices": [
+      "A) Fourth to the right",
+      "B) Second to the left",
+      "C) Fourth to the left",
+      "D) Only a and c",
+      "E) All of the above"
+    ],
+    "answer": "E"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "Directions (Q. 37-41) Study the following information and answer the questions that follow: Eight students A, B, C, D, E, F, G and H in a school sports competition participated in a game in which they were sitting around a circular ring. The seats of the ring are not directed towards the centre. All the eight students are in four groups I, II, IIII and IV, i..e two students I n each group, but not necessarily in the same order. These students are from different sport houses, viz. Maharishi Vyas, Aryabhatt, Vashistha, Shankaracharya, Balmiki, Dhruv and Dayanand. No two students of the same group are sitting adjacent to each other except those of group III. Students from group IV are sitting opposite each other. D is neither in Dayanand nor in Aryabhatt house. The student from Dhruv house is sitting on the immediate right of the students from Dayanand house. C, who is in Vashistha house, is in group I. She is sitting on the immediate right of F, who is in group III. F is not in Aryabhatt house and she has also participated in other sports. B from Vyas house is neither in group IV nor in group I or II. B is sitting opposite E. Only Balmiki participant A is sitting between Dhruv participant E and the Shankaracharya participant. Both the students of group II are sitting adjacent to students of group IV. 37. Who is in Maharishi house?",
+    "choices": [
+      "A) G",
+      "B) F",
+      "C) H",
+      "D) Can't say",
+      "E) None of these"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "38. 'H' is in which house?",
+    "choices": [
+      "A) Dayanand",
+      "B) Shankaracharya",
+      "C) Maharishi",
+      "D) Can't say",
+      "E) None of these"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "39. Who among the following students are in group IV?",
+    "choices": [
+      "A) A and B",
+      "B) A and C",
+      "C) G and H",
+      "D) Data inadequate",
+      "E) None of these"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "40. The student from which house is sitting opposite the Vashistha house participant?",
+    "choices": [
+      "A) Dayanand",
+      "B) Shankracharya",
+      "C) Maharishi",
+      "D) Can't say",
+      "E) None of these"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    ""Seating Arrangements (Linear, Circular)"": "41. Which of the following statements is false?",
+    "choices": [
+      "A) The Balmiki representative is sitting opposite the Maharishi house representative",
+      "B) The Vyas house representative is sitting opposite the Dhruv house representative",
+      "C) H and G are sitting opposite each other",
+      "D) The two girl participants are sitting opposite each other",
+      "E) None of these"
+    ],
+    "answer": "D"
+  },
+  {
+    "topic": "Seating Arrangements (Square)",
+    "Seating Arrangements (Linear, Circular)": "Directions (Q. 42-46) Read the following information carefully and answer the questioins that follow. Twelve friends are sitting in two squares. One square is inside another. P, Q, R, S, T and V are in the outer square facing inward. A, B, C, D, E and F are sitting in the inner square facing outward. They all are sitting in such a way that in each square four persons are sitting in the middle of the sides and two persons are sitting on diagonally opposite corners. Each friend in the inner square is facing another friend of the outer square. There are exactly two persons sitting between P and T. E sits second to the left of A. R is on the immediate left of the one who is facing A. Neither E nor A faces either T or P. S is facing F and Q is not opposite R in the outer square. T is not sitting adjacent to S. B is not facing P. Between B and D there are as many persons as between R and V. 42. Who is sitting opposite B?",
+    "choices": [
+      "A) V",
+      "B) Q",
+      "C) T",
+      "D) Data inadequate",
+      "E) None of these"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Square)",
+    "Seating Arrangements (Linear, Circular)": "43. V is facing which of the following persons?",
+    "choices": [
+      "A) E",
+      "B) D",
+      "C) A",
+      "D) Data inadequate",
+      "E) None of these"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Square)",
+    "Seating Arrangements (Linear, Circular)": "44. Who is sitting on the immediate left of R?",
+    "choices": [
+      "A) A",
+      "B) S",
+      "C) P",
+      "D) Data inadequate",
+      "E) None of these"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Square)",
+    "Seating Arrangements (Linear, Circular)": "45. Four of the five are alike in a certain manner. Select the one which is not similar to the other four.",
+    "choices": [
+      "A) R, E",
+      "B) A, S",
+      "C) D, T",
+      "D) F, Q",
+      "E) C, E"
+    ],
+    "answer": "E"
+  },
+  {
+    "topic": "Seating Arrangements (Square)",
+    "Seating Arrangements (Linear, Circular)": "46. Who is sitting second to the left of D?",
+    "choices": [
+      "A) A",
+      "B) E",
+      "C) F",
+      "D) Data inadequate",
+      "E) None of these"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "Directions (Q. 47-51) Study the following information carefully and answer the given questions: E, F, G, H, I, J, K and L are eight feiends sitting around a circle facing the centre, but not necessarily in the same order. I is second to the left of F, who is next to the right of L. J is not the neighbour of F or K, and is on the immediate left of H. 47. Which of the following pairs represents the neighbours of G?",
+    "choices": [
+      "A) H, F",
+      "B) E, H",
+      "C) J, K",
+      "D) I, E",
+      "E) None of these"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "48. Who among the following is on the immediate left of J?",
+    "choices": [
+      "A) K",
+      "B) H",
+      "C) I",
+      "D) L",
+      "E) None of these"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "49. Who among the following is on the immediate right of E?",
+    "choices": [
+      "A) F",
+      "B) L",
+      "C) G",
+      "D) H",
+      "E) None of these"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "50. Which of the following statements is true with respect to H?",
+    "choices": [
+      "A) Immediate left of J",
+      "B) Opposite L",
+      "C) Second to the right of F",
+      "D) All are true",
+      "E) None of these"
+    ],
+    "answer": "D"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "51. How many persons sit between G and I?",
+    "choices": [
+      "A) None",
+      "B) One",
+      "C) Two",
+      "D) Three",
+      "E) More than three"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "Directions (Q. 52-56) Study the given information carefully and answer the given questiions. Eight people A, B, C, D, E, F, G and H are sitting around a circular table facing the centre, not necessarily in the same order. Three people are sitting between A and D. B is sitting second to the right of A. C is to the immediate right of F. D is not an immediate neighbour of either F or E. H is not an immediate neighbour of B. 52. What is E's position with respect to G?",
+    "choices": [
+      "A) Third to the left",
+      "B) Second to the right",
+      "C) Third to the right",
+      "D) Second to the left",
+      "E) None of these"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "53. Four of the following are based on above arrangement and so form a group. Which one does not belong to the group?",
+    "choices": [
+      "A) GE",
+      "B) DC",
+      "C) AF",
+      "D) AB",
+      "E) CE"
+    ],
+    "answer": "D"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "54. Who is sitting third to the right of the one who is sitting to the immediate right of H?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) E",
+      "D) C",
+      "E) G"
+    ],
+    "answer": "E"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "55. Which of the following is true regarding the given arrangement?",
+    "choices": [
+      "A) E is second to the left of C",
+      "B) B is an immediate neighbour of G",
+      "C) H is an immediate neighbour of A",
+      "D) D is not an immediate neighbour of H",
+      "E) None of these"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "56. How many people are sitting between H and A when counted from the right side of H?",
+    "choices": [
+      "A) Three",
+      "B) None",
+      "C) More than three",
+      "D) One",
+      "E) Two"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "Directions (Q. 57-61) Study the following Information to answer these questions. (i) P, Q, R, S, T, U and V are sitting along the circle facing the centre. (ii) T is 2nd to the left of P. (iii) R is 3rd to the right of U who is the immediate left of V. (iv) Q is between P and S. 57. Which of the following is true statement?",
+    "choices": [
+      "A) P is between Q and T",
+      "B) R is between P and V",
+      "C) P is 4th to the right of U",
+      "D) U is between V and Q",
+      "E) None of these"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "58. Which of the following pairs has its second member sitting to the immediate left of first member?",
+    "choices": [
+      "A) VT",
+      "B) PQ",
+      "C) SU",
+      "D) UV",
+      "E) None of these"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "59. Which of the following is the false statement?",
+    "choices": [
+      "A) R is to the immediate left of P",
+      "B) V is to the immediate right of T",
+      "C) R is 4th to the right of S",
+      "D) T is between V and R",
+      "E) None of these"
+    ],
+    "answer": "D"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "60. What is the position of S?",
+    "choices": [
+      "A) To the immediate left of U",
+      "B) Between V and Q",
+      "C) 3rd to the right of T",
+      "D) To the immediate right of P",
+      "E) None of these"
+    ],
+    "answer": "D"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "61. Which of the following pairs has members sitting adjacent to each other?",
+    "choices": [
+      "A) PS",
+      "B) QU",
+      "C) UT",
+      "D) TR",
+      "E) None of these"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "Directions (Q. 62-66) Study the following information and answer the questions which follow. (i) K, L, M, N, O, P and Q are sitting around a circular table facing the centre. (ii) L sits between N and O. (iii) K is third to the left of O. (iv) Q is second to the left of M, who is to the immediate left of P. 62. Which is the correct position of L with respect to Q?",
+    "choices": [
+      "A) Second to the right",
+      "B) First to the left",
+      "C) First to the right",
+      "D) Third to the right",
+      "E) None of these"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "63. Which of the following pairs has the first person sitting to the immediate left of the second person?",
+    "choices": [
+      "A) LO",
+      "B) MK",
+      "C) QN",
+      "D) LN",
+      "E) None of these"
+    ],
+    "answer": "D"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "64. Who sits second to the left of L?",
+    "choices": [
+      "A) P",
+      "B) M",
+      "C) K",
+      "D) Q",
+      "E) None of these"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "65. Who sits between M and Q?",
+    "choices": [
+      "A) O",
+      "B) N",
+      "C) K",
+      "D) L",
+      "E) None of these"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "66. Which of the following has the middle person sitting between the other two?",
+    "choices": [
+      "A) NOL",
+      "B) PMK",
+      "C) MOP",
+      "D) POK",
+      "E) None of these"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "Directions (Q. 67-72) Study the follow ing information carefully and answer the questions given below. A, B, C, D, E, F, G and H are sitting around a circle facing at the centre. B is second to the right of H and third to the left of A. D is not an immediate neighbuor of either B or H and is second to the right of F. C is fourth to the right of G. E is an immediate neighbor of either B or H. 67. If E and F interchange their places, who will be second to the right of B?",
+    "choices": [
+      "A) F",
+      "B) C",
+      "C) D",
+      "D) Data inadequate",
+      "E) None of these"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "68. In which of the following pairs is the second person sitting to the immediate left of the first person?",
+    "choices": [
+      "A) BC",
+      "B) HE",
+      "C) FA",
+      "D) GD",
+      "E) None of these"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "69. Who is 4th to the right of H?",
+    "choices": [
+      "A) B",
+      "B) A",
+      "C) F",
+      "D) Data inadequate",
+      "E) None of these"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "70. Who is to the immediate right of B?",
+    "choices": [
+      "A) C",
+      "B) E",
+      "C) H",
+      "D) Data inadequate",
+      "E) None of these"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "71. Who is third to the right of E?",
+    "choices": [
+      "A) C",
+      "B) F",
+      "C) D",
+      "D) Data inadequate",
+      "E) None of these"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Linear)",
+    "Seating Arrangements (Linear, Circular)": "72. In a row of 45 boys facing South, T is 8th to the right of H, who is 10th from the right end. H is 14fh to the left of R. What is R's position from the left end?",
+    "choices": [
+      "A) 21st",
+      "B) 23rd",
+      "C) 24th",
+      "D) Data inadequate",
+      "E) None of these"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "Directions (Q. 73-78) Study the following information carefully and answer the questions given below: P, M, D, A, F, H, R and B are sitting around a circle facing at the centre. R is 4th to the right of A, who is 3rd to the right of P. M is second to the left of H, who is 2nd to the left of P. D is 3rd to the right of B. 73. Who is 3rd to the left of H?",
+    "choices": [
+      "A) M",
+      "B) A",
+      "C) B",
+      "D) F",
+      "E) Data inadequate"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "74. Which of the following pairs represents the immediate neighbours of B?",
+    "choices": [
+      "A) FM",
+      "B) AP",
+      "C) MP",
+      "D) AF",
+      "E) None of these"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "75. If R and B interchange their positions, who will be 2nd to the left of M?",
+    "choices": [
+      "A) B",
+      "B) H",
+      "C) P",
+      "D) Data inadequate",
+      "E) None of these"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "76. Who is the immediate right of P?",
+    "choices": [
+      "A) F",
+      "B) R",
+      "C) B",
+      "D) Data inadequate",
+      "E) None of these"
+    ],
+    "answer": "E"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "77. Who is the immediate right of M?",
+    "choices": [
+      "A) H",
+      "B) A",
+      "C) D",
+      "D) Data inadequate",
+      "E) None of these"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Linear)",
+    "Seating Arrangements (Linear, Circular)": "78. In a row of 40 children, Q is 14th from the left end and there are 16 children between Q and M. What is M’s position from the right end of the row?",
+    "choices": [
+      "A) 11th",
+      "B) 10th",
+      "C) 30th",
+      "D) Data inadequate",
+      "E) None of these"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "Directions (Q. 79-83) Study the following information carefully and answer the questions given below. B, D, M, K, P, Q, W and H are sitting around a circle facing at the centre. M is to the immediate right of B who is 4th to the right of K. P is 2nd to the left of B and is 4th to the right of W. Q is 2nd to the right of D who is 2nd to the right of H. 79. Who is 3rd to the right of B?",
+    "choices": [
+      "A) W",
+      "B) M",
+      "C) K",
+      "D) H",
+      "E) None of these"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "80. Which of the following represents the immediate neighbours of D?",
+    "choices": [
+      "A) PQ",
+      "B) KH",
+      "C) PH",
+      "D) KQ",
+      "E) PK"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "81. Who is 3rd to the right of W?",
+    "choices": [
+      "A) P",
+      "B) D",
+      "C) K",
+      "D) R",
+      "E) Data inadequate"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "82. Who is 2nd to the left of P?",
+    "choices": [
+      "A) D",
+      "B) H",
+      "C) K",
+      "D) Data inadequate",
+      "E) None of these"
+    ],
+    "answer": "E"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "83. Who is to the immediate left of B?",
+    "choices": [
+      "A) Q",
+      "B) P",
+      "C) W",
+      "D) Data inadequate",
+      "E) None of these"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "Directions (Q. 84-88) Study the following information carefully and answer the questions given below. A, M, D, P, R, T, B and H are sitting around a circle facing at the centre. M is 3rd to the left of A who is 2nd to the left of T. D is 2nd to the right of H who is 2nd to the right of T. R is 2nd to the right of B who is not an immediate neighbour of T. 84. Which of the following combinations represents the first and the second to the left of B respectively?",
+    "choices": [
+      "A) MD",
+      "B) DH",
+      "C) AM",
+      "D) AR",
+      "E) DM"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "85. Who is 3rd to the right of T?",
+    "choices": [
+      "A) D",
+      "B) B",
+      "C) H",
+      "D) M",
+      "E) None of these"
+    ],
+    "answer": "D"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "86. Who is to the immediate left of H?",
+    "choices": [
+      "A) P",
+      "B) M",
+      "C) T",
+      "D) R",
+      "E) Data inadequate"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "87. Who is 2nd to the left of B?",
+    "choices": [
+      "A) D",
+      "B) H",
+      "C) M",
+      "D) Data inadequate",
+      "E) None of these"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "88. In which of the following combinations 3rd person is 2nd to the left of 2nd person?",
+    "choices": [
+      "A) BAR",
+      "B) DBM",
+      "C) TPH",
+      "D) PMH",
+      "E) None of these"
+    ],
+    "answer": "E"
+  },
+  {
+    "topic": "Seating Arrangements (Linear)",
+    "Seating Arrangements (Linear, Circular)": "Directions (Q. 89-93) Study the following information carefully and answer the questions given below 10 people are sitting in two parallel rows containing five people each, in such a way that there is an equal distance between adjacent people. In row-1, Q, R, S, T and U are seated and all of them are facing north. In Row-2, L, M, N, O and P are seated and all of them are facing south. Therefore in the given sitting arrangement each member seated in a row faces another member of the other row. S is sitting 2nd to the left of Q. Q is not sitting at any of the ends of the line. There are two persons between P and L. The person who faces T is to the immediately left of M. M is sitting at the extreme right end. Q is an immediate neighbour of U. The person who faces U is an immediate neighbour of both P and N. 89. Who among the following is sitting 2nd to the right of O?",
+    "choices": [
+      "A) P",
+      "B) M",
+      "C) L",
+      "D) Cannot be determined",
+      "E) None of these"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Linear)",
+    "Seating Arrangements (Linear, Circular)": "90. Who among the following sits exactly between Q and S?",
+    "choices": [
+      "A) T",
+      "B) U",
+      "C) R",
+      "D) There is no person between Q and S",
+      "E) Cannot be determined"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Linear)",
+    "Seating Arrangements (Linear, Circular)": "91. Who among the following is sitting at the extreme right end of the Row-1?",
+    "choices": [
+      "A) Q",
+      "B) U",
+      "C) S",
+      "D) R",
+      "E) Cannot be determined"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Linear)",
+    "Seating Arrangements (Linear, Circular)": "92. Which of the following statements is true regarding R?",
+    "choices": [
+      "A) R is at the extreme left end of the row",
+      "B) R is an immediate neighbor of U",
+      "C) R is sitting second to the right of T",
+      "D) R is sitting exactly between T and U",
+      "E) There two persons between R and S"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Linear)",
+    "Seating Arrangements (Linear, Circular)": "93. Who among the following is not seated at any extreme end of Row-1 and Row-2?",
+    "choices": [
+      "A) P",
+      "B) S",
+      "C) M",
+      "D) R",
+      "E) O"
+    ],
+    "answer": "D"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "Directions (Q. 94-98) Study the following information carefully and answer the questions given below 8 persons – E, F, G, H, I, J, K and L - are sitting around a circle at equidistance but not necessarily in the same order. Some of them are facing towards the centre while some others are facing outside the centre. L is sitting 3rd to the left of K. Both K and L are facing towards the outside. H is not an immediate neighbour of K or L. J faces the just opposite direction of H. (It implies that if H is facing towards the centre, J would face outside the centre). J is sitting 2nd to the left of H. Both the immediate neighbours of G face just opposite direction of G. E is an immediate neighbour of K. Both the immediate neighbour of H face just opposite direction of H. E faces towards the centre and he is an immediate neighbour of both K and I. I faces towards the centre. 94. Who amongst the following are not facing towards the centre?",
+    "choices": [
+      "A) E, F and I",
+      "B) F, G and J",
+      "C) H, K and L",
+      "D) G, I and J",
+      "E) None of these"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "95. What is the position of G with respect to E?",
+    "choices": [
+      "A) 2nd to the left",
+      "B) 3rd to the right",
+      "C) 4th to the left",
+      "D) 2nd to the right",
+      "E) 5th to the right"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "96. Who among the following is sitting exactly between F and K?",
+    "choices": [
+      "A) J",
+      "B) I",
+      "C) E",
+      "D) G",
+      "E) None of these"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "97. How many persons are sitting between H and K if we move clockwise starting from H?",
+    "choices": [
+      "A) Three",
+      "B) Four",
+      "C) Five",
+      "D) Two",
+      "E) One"
+    ],
+    "answer": "D"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "98. Which of the following statements is not true regarding the given sitting arrangement?",
+    "choices": [
+      "A) L is sitting exactly between G and I",
+      "B) H is sitting 3rd to the right of K",
+      "C) F and I are sitting just opposite to each other",
+      "D) E is sitting 3rd to the left of G",
+      "E) All are true"
+    ],
+    "answer": "E"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "Directions (Q. 99-103) Study the following information carefully and answer the questions. A, B, C, D, E, F, G and H are sitting around a circle, facing the centre. A sits fourth to the right of H while second to the left of F. C is not the neighbour of F and B. D sits third to the right of C. H never sits next to G. 99. Who amongst the following sits between B and D?",
+    "choices": [
+      "A) G",
+      "B) F",
+      "C) H",
+      "D) A",
+      "E) C"
+    ],
+    "answer": "D"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "100. Which of the following pairs sit between H and G?",
+    "choices": [
+      "A) BH",
+      "B) EF",
+      "C) CE",
+      "D) DB",
+      "E) None of these"
+    ],
+    "answer": "E"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "101. Four of the following are alike I n a certain way based on their positions in the sitting arrangement and so form a group. Which is the one that does not belong to that group?",
+    "choices": [
+      "A) AE",
+      "B) HF",
+      "C) BD",
+      "D) GE",
+      "E) CH"
+    ],
+    "answer": "E"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "102. Who is immediate right of A?",
+    "choices": [
+      "A) C",
+      "B) D",
+      "C) G",
+      "D) Data inadequate",
+      "E) None of these"
+    ],
+    "answer": "E"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "103. Who sits second to the right of B?",
+    "choices": [
+      "A) A",
+      "B) C",
+      "C) D",
+      "D) E",
+      "E) None of these"
+    ],
+    "answer": "E"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "Directions (Q. 104-108) Study the following carefully and answer the questions. A, B, C, D, E, F, G and H are sitting around a circle, facing the centre. E and G always sit next to each other. D sits third to the right of C. F sits to the left of H. C never sits next to A while D never sits next to G. H is not the neighbour of D and C. 104. Who sits to immediate right of F?",
+    "choices": [
+      "A) D",
+      "B) C",
+      "C) B",
+      "D) A",
+      "E) None of these"
+    ],
+    "answer": "D"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "105. Four of the following are alike in a certain way based on their positions in the sitting arrangement and so form a group. Which is the one that does not belong to that group?",
+    "choices": [
+      "A) CH",
+      "B) BA",
+      "C) FE",
+      "D) DG",
+      "E) AC"
+    ],
+    "answer": "D"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "106. Which of the following pairs sits between B and F?",
+    "choices": [
+      "A) HB",
+      "B) FD",
+      "C) BG",
+      "D) GC",
+      "E) AH"
+    ],
+    "answer": "E"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "107. Who sits second to the left of B?",
+    "choices": [
+      "A) F",
+      "B) G",
+      "C) A",
+      "D) E",
+      "E) None of these"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "108. Who sits between A and D?",
+    "choices": [
+      "A) B",
+      "B) F",
+      "C) C",
+      "D) E",
+      "E) None of these"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "Directions (Q. 109-113) Study the following information carefully to answer these questions. Ashwini, Priya, Sudha, Rani, Meeta, Geeta and Mukta are sitting around a circle facing the centre. Ashwini is third to the left of Mukta and to the immediate right o f Rani. Priya is second to the left of Geeta who is not an immediate neighbour of Meeta. 109. Who is to the immediate right of Priya?",
+    "choices": [
+      "A) Meeta",
+      "B) Sudha",
+      "C) Mukta",
+      "D) Cannot be determined",
+      "E) None of the above"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "110. Who is second to the left of Rani?",
+    "choices": [
+      "A) Ashwini",
+      "B) Meeta",
+      "C) Priya",
+      "D) Sudha",
+      "E) None of these"
+    ],
+    "answer": "D"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "111. Which of the following pairs of persons has the first person sitting to the immediate left of second person?",
+    "choices": [
+      "A) Rani-Meeta",
+      "B) Ashwini-Geeta",
+      "C) Sudha-Priya",
+      "D) Geeta-Sudha",
+      "E) None of these"
+    ],
+    "answer": "E"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "112. Which of the following groups has the first person sitting between the other two?",
+    "choices": [
+      "A) Meeta-Ashwini-Geeta",
+      "B) Sudha-Rani-Geeta",
+      "C) Mukta-Priya-Rani",
+      "D) Mukta-Priya-Sudha",
+      "E) None of these"
+    ],
+    "answer": "D"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "113. Which of the following is the correct position of Rani with respect to Mukta? i) Third to the right ii) Third to the left iii) Fourth to the left iv) Fourth to the right",
+    "choices": [
+      "A) i) only",
+      "B) ii) only",
+      "C) Both i) and ii)",
+      "D) Both ii) and iv)",
+      "E) Both i) and iii)"
+    ],
+    "answer": "E"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "Directions (Q. 114-118) Study the following information carefully to answer these questions. A, B, C, D, E, F, G and H are sitting around a circle facing the centre. F is third to the right of C and second to the left of H. D is not an immediate neighbour of C or H. E is to the immediate right of A, who is second to the right of G. 114. Who is second to the left of C?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) E",
+      "D) D",
+      "E) None of these"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "115. Who is to the immediate right of C?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) D",
+      "D) B or D",
+      "E) None of these"
+    ],
+    "answer": "B"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "116. Which of the following pairs of persons has first person sitting to the right of the second person?",
+    "choices": [
+      "A) CB",
+      "B) AE",
+      "C) FG",
+      "D) HA",
+      "E) DB"
+    ],
+    "answer": "C"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "117. Who sits between G and D?",
+    "choices": [
+      "A) H",
+      "B) D",
+      "C) F",
+      "D) E",
+      "E) None of these"
+    ],
+    "answer": "A"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "118. Which of the following is the correct position of B with respect to H? I. Second to the right II. Fourth to the right III. Fourth to the left IV. Second to the left",
+    "choices": [
+      "A) Only I",
+      "B) Only II",
+      "C) Only III",
+      "D) Both II and III",
+      "E) None of these"
+    ],
+    "answer": "D"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "Directions (Q. 119 - 123) Study the following information carefully to answer the question that follow. Six couples have been invited to a dinner party. They are Nitika, Geetika, Lajwanti, Rekha, Savitri, Chameli and Faizal, Harbhajan, Akshay, Tirlochan, Ranveer, Aamir. They are seated on a circular table facing each other. (i) Geetika refuses to sit next to Aamir. (ii) Lajwanti wants to be between Akshay and Harbhajan. (iii) Chameli refuses to sit next to Faizal. (iv) Nitika is seated on Aamir's right hand side. (v) Faizal and... 119. Who is sitting opposite Nitika?",
+    "choices": [
+      "A) Savitri",
+      "B) Geetika",
+      "C) Lajwanti",
+      "D) Rekha",
+      "E) Cannot be determined"
+    ],
+    "answer": "E"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "120. Which of the following is the correct pair of persons sitting to the immediate left of Ranveer?",
+    "choices": [
+      "A) Lajwanti",
+      "B) Chameli",
+      "C) Geetika",
+      "D) Savitri",
+      "E) Cannot be determined"
+    ],
+    "answer": "E"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "121. Who among the following is Lajwanti's partner?",
+    "choices": [
+      "A) Akshay",
+      "B) Harbhajan",
+      "C) Tirlochan",
+      "D) Ranveer",
+      "E) Cannot be determined"
+    ],
+    "answer": "E"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "122. Which of the following is true with respect to Chameli?",
+    "choices": [
+      "A) Chameli is Nitika's partner",
+      "B) Chameli is seated to the immediate right of Rekha",
+      "C) Chameli is seated opposite Tirlochan",
+      "D) Chameli is seated between Savitri and Lajwanti",
+      "E) None of these"
+    ],
+    "answer": "E"
+  },
+  {
+    "topic": "Seating Arrangements (Circular)",
+    "Seating Arrangements (Linear, Circular)": "123. Who among the following is seated between Nitika and Lajwanti?",
+    "choices": [
+      "A) Geetika",
+      "B) Rekha",
+      "C) Savitri",
+      "D) Chameli",
+      "E) None of these"
+    ],
+    "answer": "E"
+  }
+]

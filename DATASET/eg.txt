@@ -1,0 +1,55 @@
+Q-Agent: Given a topic, the Q-agent should generate questions in the specified JSON format:{"topic": "<Topic of the Question>","question": "<full question text>","choices": [
+
+"A) <choice A text>",
+
+"B) <choice B text>",
+
+"C) <choice C text>",
+
+"D) <choice D text>"],"answer": "<correct choice letter only>","explanation": "brief explanation within 100 words for why the answer is correct"}
+
+from which we will extract ONLY the "Question" and "Choices" keys and feed it to the answer agent. The "Topic", "Question", "Choices", and "Answer" will be verified for correctness from an Oracle.
+
+
+
+this is the format of generation with constraints given below,
+
+Each question should be generated under 10 secs. Overall time for 100 questions should be no more than 1000 secs ~ 17 mins. For question-agent (Q-Agent) it is  tokens cumulatively for the content corresponding to [topic, question, choices, and answer]. This excludes token count for double quotes as well as string length for topic, question, choices, and answer string it
+
+And the rest is for explanation i.e.,1024-100=924 . But within time limit
+
+
+
+like this
+
+{
+
+"topic": "Seating Arrangements (Linear, Circular)",
+
+"question": "Eight people A, B, C, D, E, F, G, H sit around a circular table. Four face the center, and four face outward. A is third to the left of B, who faces the opposite direction of D. C (a doctor) sits adjacent to both E and F. G faces the center and is two seats to the left of H, who is not adjacent to B. If E faces outward, who is the engineer?",
+
+"choices": ["A) A) G", "B) B) H", "C) C) F", "D) D) D"],
+
+"answer": "B",
+
+"explanation": "H's position and facing direction (outward) are derived from clues. Since C is a doctor and professions aren't repeated, H must be the engineer."
+
+}
+
+{
+
+"topic": "Seating Arrangements (Linear, Circular)",
+
+"question": "Nine people are seated around a circular table with six facing the center and three facing outward. A is second to the left of B, who is directly opposite C. D is adjacent to E, who is facing outward. F is seated between G and H, who are both facing outward. I is directly opposite J, who is adjacent to K. If K is facing outward, who is seated directly opposite G?",
+
+"choices": ["A) A) I", "B) B) J", "C) C) K", "D) D) D"],
+
+"answer": "C",
+
+"explanation": "K is facing outward, so I is opposite J. G is between F and H, both facing outward. Since H is facing outward, G must be opposite K, who is directly opposite J. Thus, K is directly opposite G."
+
+}
+
+
+
+generate 10k of such data and give me a downloadable json file

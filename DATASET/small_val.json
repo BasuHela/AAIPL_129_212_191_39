@@ -1,0 +1,2539 @@
+[
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Dagmar asserts \"Kiko is someone who is untruthful.\" Kiko believes \"If Wazi is an honest person, then Dagmar is an untruthful person.\" Wazi maintains \"Kiko is someone who is honest.\" Who is the someone who tells the truth?",
+    "choices": [
+      "A) Dagmar",
+      "B) Kiko",
+      "C) Wazi",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: reliable individuals: Kiko, Wazi. liars: Dagmar. Each person's statement must be consistent with their nature.",
+    "token_count": 73
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Sandy is taking a trip to see her sister Claudia. Claudia borrowed some money from her brother Lionel. Scott is a man with a granddaughter named Sandy. How is Scott related to Lionel?",
+    "choices": [
+      "A) Grandson",
+      "B) Grandmother",
+      "C) Mother",
+      "D) Sister"
+    ],
+    "answer": "A",
+    "explanation": "Based on the provided story, the relationship between Scott and Lionel is 'grandson'."
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Mary, a female, took her husband who is a male, Roy, out for lunch. Ernest bought to dress for his father Roy How is Mary related to Ernest?",
+    "choices": [
+      "A) Father-in-law",
+      "B) Sister",
+      "C) Son",
+      "D) Aunt"
+    ],
+    "answer": "C",
+    "explanation": "Based on the provided story, the relationship between Mary and Ernest is 'son'."
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Glenda was celebrating her birthday with her mother Michelle. Michelle and her daughter Clara went out for ice cream. Michelle got a cone and Clara got a sundae. Clara asked her father Rich if he could beat up a bully at school for her. Rich told her she had to learn to fight her own battles, but he did teach her how to throw a punch. How is Glenda related to Rich?",
+    "choices": [
+      "A) Father",
+      "B) Son",
+      "C) Uncle",
+      "D) Son-in-law"
+    ],
+    "answer": "A",
+    "explanation": "Based on the provided story, the relationship between Glenda and Rich is 'father'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Kim says \"If Olga is an honest individual, then Beth is someone who is reliable.\" Beth claims \"If Olga is someone who is reliable, then Kim is a liar.\" Olga asserts \"If Kim is a truth-teller, then Beth is someone who is dishonest.\" Who is the honest person?",
+    "choices": [
+      "A) Olga",
+      "B) Kim",
+      "C) Beth",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: honest people: Kim, Beth. unreliable individuals: Olga. Each person's statement must be consistent with their nature.",
+    "token_count": 76
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Katherine and her brother Matthew were having a wonderful time at Disneyland. Scott went hunting with his son, John. Matthew went to the baseball game with his brother John. How is Katherine related to Scott?",
+    "choices": [
+      "A) Niece",
+      "B) Mother-in-law",
+      "C) Father",
+      "D) Son"
+    ],
+    "answer": "C",
+    "explanation": "Based on the provided story, the relationship between Katherine and Scott is 'father'."
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Alma does n't like having to babysit her younger brother, James. James and his wife, Helen, went to the dentist's office. Richard, Helen's son, had just had his wisdom teeth pulled, and they needed to pick him up. How is Alma related to Richard?",
+    "choices": [
+      "A) Nephew",
+      "B) Mother",
+      "C) Uncle",
+      "D) Aunt"
+    ],
+    "answer": "A",
+    "explanation": "Based on the provided story, the relationship between Alma and Richard is 'nephew'."
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Latisha took her son Matthew and granddaughter Amalia out for pizza. Amalia's brother Billy cried because he could n't go. How is Latisha related to Billy?",
+    "choices": [
+      "A) Grandson",
+      "B) Grandmother",
+      "C) Son",
+      "D) Father-in-law"
+    ],
+    "answer": "A",
+    "explanation": "Based on the provided story, the relationship between Latisha and Billy is 'grandson'."
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Roy is so proud of his son. Jacob is the son's name. Constance and her brother Jacob sat down together to clip coupons. How is Roy related to Constance?",
+    "choices": [
+      "A) Niece",
+      "B) Daughter",
+      "C) Sister",
+      "D) Grandson"
+    ],
+    "answer": "B",
+    "explanation": "Based on the provided story, the relationship between Roy and Constance is 'daughter'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Otto insists \"Gin is someone who lies.\" Astrid says \"If Tao is someone who is reliable, then Gin is an untrustworthy person.\" Tao says \"If Gin is someone who is honest, then Astrid is someone who tells the truth.\" Who is the truthful individual?",
+    "choices": [
+      "A) Astrid",
+      "B) Gin",
+      "C) Tao",
+      "D) Otto"
+    ],
+    "answer": "A",
+    "explanation": "Solution: reliable individuals: Tao, Astrid, Otto. liars: Gin. Each person's statement must be consistent with their nature.",
+    "token_count": 72
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "John and his brother Ernest went to the movies. John wanted to see an action movie, but Ernest convinced him to go to a horror film instead. Roy went to pick up his son Ernest from the baseball practice. How is Roy related to John?",
+    "choices": [
+      "A) Aunt",
+      "B) Father-in-law",
+      "C) Son",
+      "D) Grandson"
+    ],
+    "answer": "C",
+    "explanation": "Based on the provided story, the relationship between Roy and John is 'son'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Mark maintains \"Daiki is someone who is honest.\" Imani states \"If Daiki is a truth-teller, then Mark is someone who is untruthful.\" Daiki believes \"If Imani is someone who is truthful, then Mark is a dishonest person.\" Who is the someone who is honest?",
+    "choices": [
+      "A) Imani",
+      "B) Mark",
+      "C) None",
+      "D) Daiki"
+    ],
+    "answer": "D",
+    "explanation": "Solution: truth-tellers: Daiki, Mark. liars: Imani. Each person's statement must be consistent with their nature.",
+    "token_count": 76
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Eshe asserts \"If Grace is an honest individual, then Fabia is someone who is reliable.\" Fabia claims \"If Grace is someone who is truthful, then Eshe is someone who is unreliable.\" Grace says \"If Eshe is a trustworthy person, then Fabia is an untrustworthy person.\" Who is the someone who is honest?",
+    "choices": [
+      "A) Eshe",
+      "B) Grace",
+      "C) Fabia",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: truth-tellers: Eshe, Fabia. unreliable individuals: Grace. Each person's statement must be consistent with their nature.",
+    "token_count": 84
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Yuki maintains \"Luis is someone who is untruthful.\" Luis argues \"If Yuki is a reliable person, then Vega is an untruthful individual.\" Vega says \"If Yuki is a trustworthy person, then Luis is a truth-teller.\" Who is the truthful person?",
+    "choices": [
+      "A) Yuki",
+      "B) Luis",
+      "C) None",
+      "D) Vega"
+    ],
+    "answer": "D",
+    "explanation": "Solution: honest people: Vega, Luis. unreliable individuals: Yuki. Each person's statement must be consistent with their nature.",
+    "token_count": 72
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Chike argues \"Bao is someone who is reliable.\" Noah insists \"If Bao is a trustworthy person, then Chike is someone who is reliable.\" Bao insists \"If Chike is an honest individual, then Noah is an honest individual.\" Who is the someone who is honest?",
+    "choices": [
+      "A) Chike",
+      "B) Noah",
+      "C) Bao",
+      "D) None"
+    ],
+    "answer": "C",
+    "explanation": "Solution: truth-tellers: Bao, Chike, Noah. Each person's statement must be consistent with their nature.",
+    "token_count": 73
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Franz states \"Owen is a liar.\" Bao insists \"Franz is an untruthful person.\" Owen believes \"If Franz is someone who is honest, then Bao is an untruthful person.\" Who is the truthful person?",
+    "choices": [
+      "A) Owen",
+      "B) Franz",
+      "C) Bao",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: reliable individuals: Owen, Bao. dishonest people: Franz. Each person's statement must be consistent with their nature.",
+    "token_count": 63
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Nuru says \"Nina is an unreliable person.\" Nina says \"If Nuru is someone who is reliable, then Xian is a dishonest individual.\" Xian insists \"Nuru is an unreliable person.\" Who is the honest person?",
+    "choices": [
+      "A) Nina",
+      "B) Nuru",
+      "C) Xian",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: reliable individuals: Nina, Xian. dishonest people: Nuru. Each person's statement must be consistent with their nature.",
+    "token_count": 62
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Jutta asserts \"Anders is an unreliable person.\" Claude argues \"If Anders is a truthful person, then Jutta is a reliable person.\" Anders argues \"If Claude is a reliable person, then Jutta is an honest individual.\" Who is the reliable person?",
+    "choices": [
+      "A) Claude",
+      "B) Jutta",
+      "C) Anders",
+      "D) None"
+    ],
+    "answer": "C",
+    "explanation": "Solution: truth-tellers: Anders. liars: Claude, Jutta. Each person's statement must be consistent with their nature.",
+    "token_count": 66
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "William went with his wife Marjorie and son Jacob to see the newest superhero movie. How is Jacob related to Marjorie?",
+    "choices": [
+      "A) Son-in-law",
+      "B) Daughter-in-law",
+      "C) Sister",
+      "D) Granddaughter"
+    ],
+    "answer": "B",
+    "explanation": "Based on the provided story, the relationship between Jacob and Marjorie is 'daughter-in-law'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Ramon says \"If Eiji is a truth-teller, then Hiro is a trustworthy person.\" Eiji argues \"Ramon is a dishonest person.\" Hiro asserts \"Eiji is someone who is reliable.\" Who is the someone who is reliable?",
+    "choices": [
+      "A) Eiji",
+      "B) Ramon",
+      "C) Hiro",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: truth-tellers: Ramon. liars: Eiji, Hiro. Each person's statement must be consistent with their nature.",
+    "token_count": 64
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Iris asserts \"If Maia is someone who is truthful, then Xola is a truthful individual.\" Gazi states \"If Maia is someone who tells the truth, then Xola is someone who is reliable.\" Xola states \"Gazi is someone who is untruthful.\" Who is the reliable person?",
+    "choices": [
+      "A) Maia",
+      "B) Iris",
+      "C) Xola",
+      "D) Gazi"
+    ],
+    "answer": "B",
+    "explanation": "Solution: truth-tellers: Gazi, Iris. dishonest people: Maia, Xola. Each person's statement must be consistent with their nature.",
+    "token_count": 79
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Chris claims \"Tara is a liar.\" Penny declares \"If Tara is a truthful person, then Chris is a dishonest individual.\" Tara insists \"Penny is someone who tells the truth.\" Who is the truthful individual?",
+    "choices": [
+      "A) Penny",
+      "B) Chris",
+      "C) Tara",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: truth-tellers: Tara, Penny. unreliable individuals: Chris. Each person's statement must be consistent with their nature.",
+    "token_count": 56
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Michelle's son Keith loves all of his grandparents; but Keith's favorite grandparent is Scott. Scott was unhappy with his daughter, Helen, when she drove his Mercedes without asking for his permission. How is Michelle related to Helen?",
+    "choices": [
+      "A) Sister",
+      "B) Niece",
+      "C) Son-in-law",
+      "D) Daughter"
+    ],
+    "answer": "A",
+    "explanation": "Based on the provided story, the relationship between Michelle and Helen is 'sister'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Wilhelm maintains \"If Pierre is someone who tells the truth, then Eve is an untruthful person.\" Eve asserts \"If Pierre is someone who is truthful, then Wilhelm is someone who is truthful.\" Pablo claims \"Pierre is a trustworthy person.\" Who is the someone who tells the truth?",
+    "choices": [
+      "A) Pierre",
+      "B) Wilhelm",
+      "C) Pablo",
+      "D) Eve"
+    ],
+    "answer": "B",
+    "explanation": "Solution: reliable individuals: Wilhelm, Eve. unreliable individuals: Pierre, Pablo. Each person's statement must be consistent with their nature.",
+    "token_count": 72
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Xian maintains \"If Nina is someone who tells the truth, then Nuru is an unreliable person.\" Nina says \"Xian is someone who lies.\" Nuru says \"Xian is someone who is reliable.\" Who is the truth-teller?",
+    "choices": [
+      "A) Nuru",
+      "B) Nina",
+      "C) Xian",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: reliable individuals: Nuru, Xian. unreliable individuals: Nina. Each person's statement must be consistent with their nature.",
+    "token_count": 64
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Mary loves seeing her son Herman on Mother's Day. Herman is bringing his son James this year. How is James related to Mary?",
+    "choices": [
+      "A) Daughter-in-law",
+      "B) Sister",
+      "C) Son-in-law",
+      "D) Grandmother"
+    ],
+    "answer": "D",
+    "explanation": "Based on the provided story, the relationship between James and Mary is 'grandmother'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Jia states \"Elena is a trustworthy person.\" Elena says \"Zara is an untruthful person.\" Zara argues \"If Umi is an honest individual, then Jia is an honest person.\" Who is the reliable person?",
+    "choices": [
+      "A) Umi",
+      "B) Zara",
+      "C) Jia",
+      "D) Elena"
+    ],
+    "answer": "B",
+    "explanation": "Solution: truth-tellers: Zara. dishonest people: Umi, Jia, Elena. Each person's statement must be consistent with their nature.",
+    "token_count": 64
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Dayo asserts \"If Aiko is a truthful individual, then Claude is an honest individual.\" Claude asserts \"If Aiko is a truth-teller, then Dayo is a reliable person.\" Aiko says \"Dayo is an honest person.\" Who is the trustworthy person?",
+    "choices": [
+      "A) Claude",
+      "B) Aiko",
+      "C) Dayo",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: honest people: Aiko, Claude, Dayo. Each person's statement must be consistent with their nature.",
+    "token_count": 70
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Tom asked his father Rich if he could have a video game and he said okay. Michelle's daughter, Cheryl, asked her mom to read her a story. Tom sent flowers to his mother Michelle for Mother's Day. How is Rich related to Cheryl?",
+    "choices": [
+      "A) Daughter",
+      "B) Nephew",
+      "C) Father",
+      "D) Brother"
+    ],
+    "answer": "A",
+    "explanation": "Based on the provided story, the relationship between Rich and Cheryl is 'daughter'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Vega argues \"Dara is a dishonest individual.\" Imani asserts \"Vega is someone who is dishonest.\" Dara asserts \"If Vega is an honest person, then Imani is an untruthful person.\" Who is the truth-teller?",
+    "choices": [
+      "A) Imani",
+      "B) Vega",
+      "C) Dara",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: honest people: Imani, Dara. liars: Vega. Each person's statement must be consistent with their nature.",
+    "token_count": 65
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Kate believes \"Astrid is a truthful individual.\" Igor asserts \"If Osamu is someone who is reliable, then Astrid is an untrustworthy person.\" Osamu declares \"If Astrid is an honest individual, then Igor is someone who is reliable.\" Who is the truthful individual?",
+    "choices": [
+      "A) Astrid",
+      "B) Igor",
+      "C) Kate",
+      "D) Osamu"
+    ],
+    "answer": "B",
+    "explanation": "Solution: honest people: Osamu, Igor. liars: Astrid, Kate. Each person's statement must be consistent with their nature.",
+    "token_count": 73
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Kirsten insists \"If Eve is a truth-teller, then Dagmar is someone who lies.\" Lin insists \"Eve is an untruthful individual.\" Eve declares \"If Dagmar is someone who is reliable, then Kirsten is an honest individual.\" Who is the someone who is truthful?",
+    "choices": [
+      "A) Dagmar",
+      "B) Kirsten",
+      "C) Lin",
+      "D) Eve"
+    ],
+    "answer": "B",
+    "explanation": "Solution: truth-tellers: Eve, Kirsten. liars: Dagmar, Lin. Each person's statement must be consistent with their nature.",
+    "token_count": 75
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Binta argues \"Feng is someone who tells the truth.\" Feng says \"If Hana is someone who tells the truth, then Binta is a dishonest person.\" Hana insists \"Feng is someone who is dishonest.\" Who is the someone who is reliable?",
+    "choices": [
+      "A) Hana",
+      "B) Feng",
+      "C) Binta",
+      "D) None"
+    ],
+    "answer": "C",
+    "explanation": "Solution: honest people: Feng, Binta. unreliable individuals: Hana. Each person's statement must be consistent with their nature.",
+    "token_count": 68
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Alma was having a hard time with her math homework, so she went to her brother John for help. John did n't seem to know either, so Alma went to her father Scott, as she was sure he could help. John went to the baseball game with his son Allan How is Scott related to Allan?",
+    "choices": [
+      "A) Grandson",
+      "B) Daughter",
+      "C) Grandmother",
+      "D) Daughter-in-law"
+    ],
+    "answer": "A",
+    "explanation": "Based on the provided story, the relationship between Scott and Allan is 'grandson'."
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Samantha spent a great day shopping with her daughter, Kelly. Samantha and her father Ronald are having a very nice chicken dinner with Ronald's wife Joyce. Samantha went to the beach with her husband Louis. How is Joyce related to Kelly?",
+    "choices": [
+      "A) Father-in-law",
+      "B) Son-in-law",
+      "C) Daughter",
+      "D) Granddaughter"
+    ],
+    "answer": "D",
+    "explanation": "Based on the provided story, the relationship between Joyce and Kelly is 'granddaughter'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Iris argues \"Jutta is an untruthful individual.\" Jutta declares \"If Iris is someone who is honest, then Julia is someone who tells the truth.\" Julia believes \"Iris is an honest individual.\" Who is the truthful person?",
+    "choices": [
+      "A) Iris",
+      "B) Julia",
+      "C) None",
+      "D) Jutta"
+    ],
+    "answer": "D",
+    "explanation": "Solution: honest people: Jutta. unreliable individuals: Iris, Julia. Each person's statement must be consistent with their nature.",
+    "token_count": 63
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Adrian says \"Emma is someone who lies.\" Emma insists \"If Franz is someone who is reliable, then Adrian is someone who is unreliable.\" Franz maintains \"Emma is a reliable person.\" Who is the truthful person?",
+    "choices": [
+      "A) Franz",
+      "B) Adrian",
+      "C) Emma",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: truth-tellers: Franz, Emma. dishonest people: Adrian. Each person's statement must be consistent with their nature.",
+    "token_count": 56
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Feng declares \"Bruno is someone who is untruthful.\" Bakari argues \"Bruno is an untruthful person.\" Bruno insists \"If Feng is an honest person, then Bakari is a trustworthy person.\" Who is the someone who is truthful?",
+    "choices": [
+      "A) Feng",
+      "B) Bruno",
+      "C) Bakari",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: truth-tellers: Bruno. unreliable individuals: Feng, Bakari. Each person's statement must be consistent with their nature.",
+    "token_count": 66
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Maia believes \"If Xola is a truthful individual, then Gazi is an untruthful person.\" Gazi maintains \"If Maia is an honest person, then Xola is someone who is dishonest.\" Xola declares \"If Maia is a reliable person, then Gazi is a reliable person.\" Who is the someone who tells the truth?",
+    "choices": [
+      "A) Maia",
+      "B) Xola",
+      "C) Gazi",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: honest people: Xola, Gazi. liars: Maia. Each person's statement must be consistent with their nature.",
+    "token_count": 87
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Ximena states \"Thor is someone who is honest.\" Thor believes \"If Fang is someone who is truthful, then Ximena is someone who is honest.\" Fang states \"Ximena is someone who is honest.\" Who is the someone who is honest?",
+    "choices": [
+      "A) Fang",
+      "B) Ximena",
+      "C) Thor",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: reliable individuals: Fang, Thor, Ximena. Each person's statement must be consistent with their nature.",
+    "token_count": 67
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Henry argues \"Jake is a dishonest individual.\" Jake maintains \"Qing is someone who is honest.\" Qing claims \"If Jake is a truth-teller, then Henry is an untruthful individual.\" Who is the honest individual?",
+    "choices": [
+      "A) Henry",
+      "B) Jake",
+      "C) None",
+      "D) Qing"
+    ],
+    "answer": "D",
+    "explanation": "Solution: honest people: Qing, Jake. liars: Henry. Each person's statement must be consistent with their nature.",
+    "token_count": 58
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Gazi states \"Jake is an honest person.\" Jake states \"If Gazi is someone who is honest, then Xavier is someone who tells the truth.\" Xavier says \"Jake is someone who is honest.\" Who is the truth-teller?",
+    "choices": [
+      "A) Gazi",
+      "B) Xavier",
+      "C) Jake",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: truth-tellers: Gazi, Xavier, Jake. Each person's statement must be consistent with their nature.",
+    "token_count": 61
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Jacob took his wife Stephanie out to dinner. Jacob asked his father Roy to watch the kids. How is Stephanie related to Roy?",
+    "choices": [
+      "A) Aunt",
+      "B) Son-in-law",
+      "C) Father-in-law",
+      "D) Nephew"
+    ],
+    "answer": "C",
+    "explanation": "Based on the provided story, the relationship between Stephanie and Roy is 'father-in-law'."
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Helen read her son Glenn a bedtime story every night. Glenn's grandfather, Scott, just had a birthday. Glenn and the rest of the family threw Scott a big party. James surprised Helen with her favorite roses and a necklace on their 10 year marriage anniversary. How is James related to Scott?",
+    "choices": [
+      "A) Father-in-law",
+      "B) Mother",
+      "C) Aunt",
+      "D) Nephew"
+    ],
+    "answer": "A",
+    "explanation": "Based on the provided story, the relationship between James and Scott is 'father-in-law'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Eshe says \"Emi is a dishonest person.\" Emi states \"If Jomo is an honest person, then Eshe is a truthful individual.\" Jomo maintains \"Eshe is someone who is truthful.\" Who is the reliable person?",
+    "choices": [
+      "A) Jomo",
+      "B) Emi",
+      "C) Eshe",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: truth-tellers: Emi. unreliable individuals: Jomo, Eshe. Each person's statement must be consistent with their nature.",
+    "token_count": 64
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Dara declares \"If Xara is a trustworthy person, then Umi is an honest individual.\" Umi says \"If Xara is an honest individual, then Dara is someone who tells the truth.\" Xara maintains \"Dara is someone who tells the truth.\" Who is the trustworthy person?",
+    "choices": [
+      "A) Xara",
+      "B) Dara",
+      "C) Umi",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: honest people: Xara, Dara, Umi. Each person's statement must be consistent with their nature.",
+    "token_count": 76
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Dayo insists \"If Luna is a truth-teller, then Chris is an honest individual.\" Beth believes \"Chris is someone who lies.\" Chris states \"Dayo is someone who is untruthful.\" Who is the trustworthy person?",
+    "choices": [
+      "A) Luna",
+      "B) Chris",
+      "C) Beth",
+      "D) Dayo"
+    ],
+    "answer": "C",
+    "explanation": "Solution: honest people: Dayo, Beth. unreliable individuals: Luna, Chris. Each person's statement must be consistent with their nature.",
+    "token_count": 60
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Pilar believes \"If Femi is someone who tells the truth, then Nora is someone who tells the truth.\" Nora declares \"If Femi is someone who is reliable, then Pilar is a dishonest person.\" Chie insists \"If Femi is someone who tells the truth, then Nora is someone who tells the truth.\" Who is the someone who is truthful?",
+    "choices": [
+      "A) Femi",
+      "B) Chie",
+      "C) Nora",
+      "D) Pilar"
+    ],
+    "answer": "B",
+    "explanation": "Solution: honest people: Nora, Pilar, Chie. dishonest people: Femi. Each person's statement must be consistent with their nature.",
+    "token_count": 89
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Lars says \"If Sergio is an honest person, then Maia is someone who lies.\" Sergio says \"Lars is a truthful individual.\" Maia says \"If Sergio is a truthful person, then Lars is an untruthful individual.\" Who is the truthful individual?",
+    "choices": [
+      "A) Maia",
+      "B) Sergio",
+      "C) Lars",
+      "D) None"
+    ],
+    "answer": "C",
+    "explanation": "Solution: honest people: Sergio, Lars. dishonest people: Maia. Each person's statement must be consistent with their nature.",
+    "token_count": 68
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Lamin declares \"Celia is an untrustworthy person.\" Carmen maintains \"If Nico is someone who is honest, then Celia is someone who tells the truth.\" Celia claims \"Carmen is an untrustworthy person.\" Who is the someone who is truthful?",
+    "choices": [
+      "A) Nico",
+      "B) Carmen",
+      "C) Celia",
+      "D) Lamin"
+    ],
+    "answer": "B",
+    "explanation": "Solution: truth-tellers: Lamin, Carmen. dishonest people: Nico, Celia. Each person's statement must be consistent with their nature.",
+    "token_count": 70
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Ben maintains \"Paki is someone who is reliable.\" Sergio believes \"If Ben is a truthful person, then Kira is someone who is untruthful.\" Paki claims \"If Ben is a truthful individual, then Kira is someone who is dishonest.\" Who is the honest person?",
+    "choices": [
+      "A) Kira",
+      "B) Ben",
+      "C) Sergio",
+      "D) Paki"
+    ],
+    "answer": "D",
+    "explanation": "Solution: honest people: Ben, Sergio, Paki. liars: Kira. Each person's statement must be consistent with their nature.",
+    "token_count": 72
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Mary took her granddaughter Rosalee to the movies. Monet and her sister Rosalee played golf together. Monet won easily. How is Mary related to Monet?",
+    "choices": [
+      "A) Granddaughter",
+      "B) Sister",
+      "C) Son",
+      "D) Mother"
+    ],
+    "answer": "A",
+    "explanation": "Based on the provided story, the relationship between Mary and Monet is 'granddaughter'."
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Rich's daughter, Glenda, was born to both him and his wife, Michelle, a few days ago. Michelle picked up her son Keith from the mall How is Keith related to Glenda?",
+    "choices": [
+      "A) Sister",
+      "B) Son",
+      "C) Father-in-law",
+      "D) Grandson"
+    ],
+    "answer": "A",
+    "explanation": "Based on the provided story, the relationship between Keith and Glenda is 'sister'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Chen asserts \"David is someone who is dishonest.\" David claims \"If Fola is a reliable person, then Chen is a truthful person.\" Vega believes \"Fola is a reliable person.\" Who is the someone who tells the truth?",
+    "choices": [
+      "A) Fola",
+      "B) Chen",
+      "C) David",
+      "D) Vega"
+    ],
+    "answer": "C",
+    "explanation": "Solution: truth-tellers: David. unreliable individuals: Fola, Chen, Vega. Each person's statement must be consistent with their nature.",
+    "token_count": 61
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Scott is a widow and lives alone with his three children, Matthew, Michelle, and Katherine. How is Matthew related to Katherine?",
+    "choices": [
+      "A) Granddaughter",
+      "B) Sister",
+      "C) Daughter",
+      "D) Grandmother"
+    ],
+    "answer": "B",
+    "explanation": "Based on the provided story, the relationship between Matthew and Katherine is 'sister'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Emma argues \"Imani is someone who is honest.\" Vega maintains \"If Emma is someone who is truthful, then Imani is someone who is truthful.\" Imani claims \"Vega is someone who is honest.\" Who is the someone who is honest?",
+    "choices": [
+      "A) Vega",
+      "B) Emma",
+      "C) Imani",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: truth-tellers: Emma, Vega, Imani. Each person's statement must be consistent with their nature.",
+    "token_count": 64
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Gazi argues \"Iris is someone who is honest.\" Lei declares \"Iris is someone who lies.\" Iris argues \"If Gazi is an honest individual, then Lei is a liar.\" Who is the truthful person?",
+    "choices": [
+      "A) Lei",
+      "B) Iris",
+      "C) Gazi",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: reliable individuals: Gazi, Iris. dishonest people: Lei. Each person's statement must be consistent with their nature.",
+    "token_count": 58
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "John's brother, Herman, recently got elected as a senator. Herman is proud of his son. His name is Guy. How is Guy related to John?",
+    "choices": [
+      "A) Uncle",
+      "B) Mother-in-law",
+      "C) Mother",
+      "D) Grandson"
+    ],
+    "answer": "A",
+    "explanation": "Based on the provided story, the relationship between Guy and John is 'uncle'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Greta declares \"Hiro is an honest individual.\" Hiro argues \"If Binta is a trustworthy person, then Greta is an untruthful person.\" Binta claims \"If Hiro is a truth-teller, then Greta is a dishonest individual.\" Who is the trustworthy person?",
+    "choices": [
+      "A) Hiro",
+      "B) Binta",
+      "C) Greta",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: truth-tellers: Hiro, Greta. dishonest people: Binta. Each person's statement must be consistent with their nature.",
+    "token_count": 72
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Matthew is a hardworking man who puts food on the table for his family every night working about 10 hours. Alma, Matthew wife is very lazy and does n't provide much for the family. She hires a nanny to take care of Matthew and hers kids. Matthew is thinking about getting a divorce and getting her away from his kids as it is a bad environment. The divorce eventually comes and Matthew is a much happier man and is thankful his wife is n't there to ruin the good thing they have once again. . One day James the uncle of Amalia, decided to surprise Amalia with a camping trip. Amalia had been wanting to go camping for a long time. Matthew always saw his daughter, Amalia, as the apple of his eye. How is Alma related to James?",
+    "choices": [
+      "A) Grandson",
+      "B) Daughter",
+      "C) Granddaughter",
+      "D) Brother"
+    ],
+    "answer": "D",
+    "explanation": "Based on the provided story, the relationship between Alma and James is 'brother'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Zoran says \"Oba is a truth-teller.\" Oba maintains \"If Xola is a truth-teller, then Zoran is someone who is dishonest.\" Xola states \"Oba is someone who is untruthful.\" Who is the someone who is reliable?",
+    "choices": [
+      "A) Xola",
+      "B) Oba",
+      "C) Zoran",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: reliable individuals: Zoran, Oba. liars: Xola. Each person's statement must be consistent with their nature.",
+    "token_count": 71
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Maia states \"Lars is someone who lies.\" Lars states \"If Sergio is a truthful individual, then Maia is a dishonest person.\" Sergio argues \"Maia is someone who is dishonest.\" Who is the honest person?",
+    "choices": [
+      "A) Lars",
+      "B) Maia",
+      "C) Sergio",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: reliable individuals: Sergio, Lars. dishonest people: Maia. Each person's statement must be consistent with their nature.",
+    "token_count": 59
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Elsa claims \"Emilio is a reliable person.\" Elena states \"Elsa is an unreliable person.\" Emilio maintains \"If Elena is a truth-teller, then Elsa is someone who lies.\" Who is the truthful person?",
+    "choices": [
+      "A) Emilio",
+      "B) Elena",
+      "C) Elsa",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: reliable individuals: Emilio, Elsa. liars: Elena. Each person's statement must be consistent with their nature.",
+    "token_count": 59
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Rafiq asserts \"If Xara is a trustworthy person, then Ren is a liar.\" Xara insists \"Mario is a trustworthy person.\" Mario claims \"If Xara is a trustworthy person, then Ren is a dishonest person.\" Who is the someone who tells the truth?",
+    "choices": [
+      "A) Ren",
+      "B) Xara",
+      "C) Mario",
+      "D) Rafiq"
+    ],
+    "answer": "C",
+    "explanation": "Solution: reliable individuals: Xara, Mario, Rafiq. unreliable individuals: Ren. Each person's statement must be consistent with their nature.",
+    "token_count": 70
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Imogene's son, Ralph, had to stay home from school with a cold. Ronald was having trouble with his divorce because he only got to see his daughter Imogene a few times a week Ralph took his favorite son Gerald to a baseball game where he caught a foul ball as a souvenir. Jacob was thrilled his brother, Ralph, was able to make it to the party. How is Gerald related to Ronald?",
+    "choices": [
+      "A) Son",
+      "B) Sister",
+      "C) Father",
+      "D) Uncle"
+    ],
+    "answer": "C",
+    "explanation": "Based on the provided story, the relationship between Gerald and Ronald is 'father'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Hilda claims \"If Osamu is an honest person, then Kesi is an honest person.\" Kesi asserts \"Osamu is a truthful person.\" Osamu claims \"Hilda is an honest individual.\" Who is the someone who is honest?",
+    "choices": [
+      "A) Hilda",
+      "B) Osamu",
+      "C) None",
+      "D) Kesi"
+    ],
+    "answer": "D",
+    "explanation": "Solution: truth-tellers: Hilda, Osamu, Kesi. Each person's statement must be consistent with their nature.",
+    "token_count": 65
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Kate asserts \"Gloria is someone who lies.\" Gloria declares \"Ping is an unreliable person.\" Ping maintains \"If Gloria is a truthful person, then Kate is an untrustworthy person.\" Who is the truthful individual?",
+    "choices": [
+      "A) Gloria",
+      "B) Kate",
+      "C) None",
+      "D) Ping"
+    ],
+    "answer": "D",
+    "explanation": "Solution: honest people: Ping, Kate. dishonest people: Gloria. Each person's statement must be consistent with their nature.",
+    "token_count": 57
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "John decided to take his daughter Deborah to Disneyworld. Latisha took her daughter Helen to school during the cold winter morning. John was so excited to introduce his new girlfriend to his mother, Latisha. How is Helen related to Deborah?",
+    "choices": [
+      "A) Grandfather",
+      "B) Granddaughter",
+      "C) Son-in-law",
+      "D) Niece"
+    ],
+    "answer": "D",
+    "explanation": "Based on the provided story, the relationship between Helen and Deborah is 'niece'."
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Harry and his brother Dale played at jacks. Michelle and her brother John are taking Michelle's son Harry to the park. How is John related to Dale?",
+    "choices": [
+      "A) Nephew",
+      "B) Aunt",
+      "C) Daughter-in-law",
+      "D) Son"
+    ],
+    "answer": "A",
+    "explanation": "Based on the provided story, the relationship between John and Dale is 'nephew'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Kate asserts \"Gloria is someone who lies.\" Gloria declares \"Ping is an unreliable person.\" Ping maintains \"If Gloria is a truthful person, then Kate is an untrustworthy person.\" Who is the truthful individual?",
+    "choices": [
+      "A) Gloria",
+      "B) Kate",
+      "C) None",
+      "D) Ping"
+    ],
+    "answer": "D",
+    "explanation": "Solution: honest people: Ping, Kate. dishonest people: Gloria. Each person's statement must be consistent with their nature.",
+    "token_count": 57
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Bjorn says \"Dolores is a reliable person.\" Jia claims \"If Bjorn is an honest individual, then Pierre is someone who is dishonest.\" Dolores claims \"Jia is someone who tells the truth.\" Who is the someone who tells the truth?",
+    "choices": [
+      "A) Pierre",
+      "B) Bjorn",
+      "C) Dolores",
+      "D) Jia"
+    ],
+    "answer": "C",
+    "explanation": "Solution: truth-tellers: Bjorn, Jia, Dolores. dishonest people: Pierre. Each person's statement must be consistent with their nature.",
+    "token_count": 70
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Mia says \"Rafiq is someone who is unreliable.\" Rafiq insists \"If Mia is a truthful person, then Owen is an unreliable person.\" Owen says \"Rafiq is a truthful individual.\" Who is the reliable person?",
+    "choices": [
+      "A) Mia",
+      "B) Rafiq",
+      "C) Owen",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: truth-tellers: Owen, Rafiq. unreliable individuals: Mia. Each person's statement must be consistent with their nature.",
+    "token_count": 61
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Alma and her nephew Joshua went to the store to buy some new tea. Katherine's son, Joshua, has always wanted to be like John, Katherine's husband. How is John related to Alma?",
+    "choices": [
+      "A) Grandfather",
+      "B) Niece",
+      "C) Sister",
+      "D) Nephew"
+    ],
+    "answer": "C",
+    "explanation": "Based on the provided story, the relationship between John and Alma is 'sister'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Aaron insists \"If Olga is someone who tells the truth, then Beth is someone who tells the truth.\" Olga says \"Aaron is someone who tells the truth.\" Erik asserts \"If Olga is someone who is reliable, then Aaron is an untrustworthy person.\" Who is the truthful individual?",
+    "choices": [
+      "A) Erik",
+      "B) Olga",
+      "C) Beth",
+      "D) Aaron"
+    ],
+    "answer": "C",
+    "explanation": "Solution: honest people: Olga, Aaron, Beth. dishonest people: Erik. Each person's statement must be consistent with their nature.",
+    "token_count": 74
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Alma talks to her son Andy every day. Matthew took his son, Andy, and his mother Latisha to go get pastries at the new bakery. How is Alma related to Latisha?",
+    "choices": [
+      "A) Grandmother",
+      "B) Mother",
+      "C) Daughter",
+      "D) Father-in-law"
+    ],
+    "answer": "B",
+    "explanation": "Based on the provided story, the relationship between Alma and Latisha is 'mother'."
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Helen and her brother Matthew are both adopted from the same family. John was playing football in the yard with his brother Matthew. John's daughter, Melissa, was fingerpainting in the grass. How is Melissa related to Helen?",
+    "choices": [
+      "A) Son-in-law",
+      "B) Daughter-in-law",
+      "C) Mother",
+      "D) Aunt"
+    ],
+    "answer": "D",
+    "explanation": "Based on the provided story, the relationship between Melissa and Helen is 'aunt'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Waldo states \"If Sergio is an honest person, then Ichiro is an untruthful person.\" Sergio says \"If Ichiro is someone who is honest, then Waldo is someone who lies.\" Ichiro argues \"If Sergio is someone who is truthful, then Waldo is a truthful individual.\" Who is the someone who is honest?",
+    "choices": [
+      "A) Sergio",
+      "B) Waldo",
+      "C) None",
+      "D) Ichiro"
+    ],
+    "answer": "D",
+    "explanation": "Solution: honest people: Ichiro, Waldo. unreliable individuals: Sergio. Each person's statement must be consistent with their nature.",
+    "token_count": 83
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Robert's father, John, wanted to build a house. John's brother, Herman, is an architect and helped a lot. How is Robert related to Herman?",
+    "choices": [
+      "A) Grandfather",
+      "B) Uncle",
+      "C) Father",
+      "D) Brother"
+    ],
+    "answer": "B",
+    "explanation": "Based on the provided story, the relationship between Robert and Herman is 'uncle'."
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "David is a man with a son named Jacob. David and his brother William are constantly trying to one up each other. How is Jacob related to William?",
+    "choices": [
+      "A) Nephew",
+      "B) Grandmother",
+      "C) Mother-in-law",
+      "D) Son"
+    ],
+    "answer": "D",
+    "explanation": "Based on the provided story, the relationship between Jacob and William is 'son'."
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Latisha always enjoys story time when the books are read by her grandma Crystal. Helen was so proud of her daughter Crystal for getting straight A's this semester. Helen likes taking her son Glenn to school. How is Latisha related to Glenn?",
+    "choices": [
+      "A) Grandson",
+      "B) Son",
+      "C) Brother",
+      "D) Father"
+    ],
+    "answer": "A",
+    "explanation": "Based on the provided story, the relationship between Latisha and Glenn is 'grandson'."
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Rich invited his wife Michelle and daughter Cheryl out for pancakes. Cheryl's brother Dale went camping with his friends. How is Dale related to Rich?",
+    "choices": [
+      "A) Father-in-law",
+      "B) Niece",
+      "C) Father",
+      "D) Grandson"
+    ],
+    "answer": "C",
+    "explanation": "Based on the provided story, the relationship between Dale and Rich is 'father'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Mario states \"If Ramon truthful individual, then Xara is someone who is reliable.\" Ramon: \"If Xara truthful individual, then Ren is someone who tells the truth.\" Ren believes \"If Ramon truthful individual, then Xara untrustworthy person.\" Who honest?",
+    "choices": [
+      "A) Xara",
+      "B) Mario",
+      "C) Ren",
+      "D) Ramon"
+    ],
+    "answer": "C",
+    "explanation": "Solution: truth-tellers: Ramon, Ren. unreliable individuals: Xara, Mario. Each person's statement must be consistent with their nature.",
+    "token_count": 71
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Anders asserts \"If Jean is someone who is honest, then David is an unreliable person.\" David maintains \"If Jean is a reliable person, then Anders is someone who is truthful.\" Jean maintains \"If David is an honest person, then Anders is an unreliable person.\" Who is the truth-teller?",
+    "choices": [
+      "A) Jean",
+      "B) Anders",
+      "C) None",
+      "D) David"
+    ],
+    "answer": "D",
+    "explanation": "Solution: reliable individuals: David, Anders. unreliable individuals: Jean. Each person's statement must be consistent with their nature.",
+    "token_count": 73
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Kelly ca n't wait to see her favorite aunt Martha. Ernest was proud to attend Kelly's graduation. He was very proud to have raised her into a successful young adult. How is Ernest related to Martha?",
+    "choices": [
+      "A) Grandfather",
+      "B) Granddaughter",
+      "C) Sister",
+      "D) Brother"
+    ],
+    "answer": "C",
+    "explanation": "Based on the provided story, the relationship between Ernest and Martha is 'sister'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Xian maintains \"If Sam is a truthful individual, then Otto is a truthful individual.\" Sam claims \"If Xian is an honest individual, then Otto is a trustworthy person.\" Otto says \"Xian is someone who is dishonest.\" Who is the honest individual?",
+    "choices": [
+      "A) Sam",
+      "B) Otto",
+      "C) Xian",
+      "D) None"
+    ],
+    "answer": "C",
+    "explanation": "Solution: truth-tellers: Xian. unreliable individuals: Sam, Otto. Each person's statement must be consistent with their nature.",
+    "token_count": 66
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Scott and his wife Latisha took their grandson Rigoberto to the zoo. Rigoberto's brother Joseph was not able to go. How is Scott related to Joseph?",
+    "choices": [
+      "A) Uncle",
+      "B) Son-in-law",
+      "C) Father-in-law",
+      "D) Grandson"
+    ],
+    "answer": "D",
+    "explanation": "Based on the provided story, the relationship between Scott and Joseph is 'grandson'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Kim says \"If Olga is an honest individual, then Beth is someone who is reliable.\" Beth claims \"If Olga is someone who is reliable, then Kim is a liar.\" Olga asserts \"If Kim is a truth-teller, then Beth is someone who is dishonest.\" Who is the honest person?",
+    "choices": [
+      "A) Olga",
+      "B) Kim",
+      "C) Beth",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: honest people: Kim, Beth. unreliable individuals: Olga. Each person's statement must be consistent with their nature.",
+    "token_count": 76
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Anders declares \"If Chike is an honest individual, then Hana is someone who tells the truth.\" Hana claims \"Chike is a truthful individual.\" Chike believes \"Anders is a truthful person.\" Who is the someone who tells the truth?",
+    "choices": [
+      "A) Hana",
+      "B) Anders",
+      "C) Chike",
+      "D) None"
+    ],
+    "answer": "C",
+    "explanation": "Solution: truth-tellers: Chike, Hana, Anders. Each person's statement must be consistent with their nature.",
+    "token_count": 67
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Bruno maintains \"If Tomas is someone who tells the truth, then Nia is a truth-teller.\" Nia insists \"Bruno is someone who is dishonest.\" Emi claims \"Nia is someone who is untruthful.\" Who is the honest individual?",
+    "choices": [
+      "A) Tomas",
+      "B) Nia",
+      "C) Bruno",
+      "D) Emi"
+    ],
+    "answer": "C",
+    "explanation": "Solution: reliable individuals: Bruno, Emi. unreliable individuals: Tomas, Nia. Each person's statement must be consistent with their nature.",
+    "token_count": 68
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Daiki believes \"Luna is a trustworthy person.\" Asha believes \"Luna is someone who is reliable.\" Luna says \"If Daiki is a truth-teller, then Asha is a truthful individual.\" Who is the truthful individual?",
+    "choices": [
+      "A) Daiki",
+      "B) Asha",
+      "C) Luna",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: reliable individuals: Daiki, Asha, Luna. Each person's statement must be consistent with their nature.",
+    "token_count": 63
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Nico insists \"Greta is a dishonest individual.\" Elsa maintains \"If Greta is a truthful individual, then Felipe is someone who is dishonest.\" Felipe maintains \"Elsa is someone who is truthful.\" Who is the someone who tells the truth?",
+    "choices": [
+      "A) Greta",
+      "B) Elsa",
+      "C) Felipe",
+      "D) Nico"
+    ],
+    "answer": "B",
+    "explanation": "Solution: reliable individuals: Elsa, Felipe, Nico. dishonest people: Greta. Each person's statement must be consistent with their nature.",
+    "token_count": 63
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Qing declares \"If Fabia is someone who is truthful, then Jake is someone who is dishonest.\" Fabia maintains \"If Qing is someone who is honest, then Jake is a dishonest individual.\" Jake maintains \"If Fabia is a truthful individual, then Qing is someone who tells the truth.\" Who is the trustworthy person?",
+    "choices": [
+      "A) Qing",
+      "B) Fabia",
+      "C) Jake",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: honest people: Qing, Jake. unreliable individuals: Fabia. Each person's statement must be consistent with their nature.",
+    "token_count": 79
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "James always saw his daughter, Belinda, as the apple of his eye. James decided to give his son Joseph, for his birthday, the latest version of Apple watch. Latisha loves her grandson Joseph. Joseph loves her, too. How is Latisha related to Belinda?",
+    "choices": [
+      "A) Daughter",
+      "B) Grandmother",
+      "C) Granddaughter",
+      "D) Nephew"
+    ],
+    "answer": "C",
+    "explanation": "Based on the provided story, the relationship between Latisha and Belinda is 'granddaughter'."
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "John went to the store with his brother, Ernest. John loves cooking with his daughter. Her name is Margaret. How is Margaret related to Ernest?",
+    "choices": [
+      "A) Uncle",
+      "B) Son-in-law",
+      "C) Granddaughter",
+      "D) Mother"
+    ],
+    "answer": "A",
+    "explanation": "Based on the provided story, the relationship between Margaret and Ernest is 'uncle'."
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Marjorie and her husband William are going to visit Marjorie's mother, Stephanie. How is William related to Stephanie?",
+    "choices": [
+      "A) Grandson",
+      "B) Daughter",
+      "C) Mother-in-law",
+      "D) Grandmother"
+    ],
+    "answer": "C",
+    "explanation": "Based on the provided story, the relationship between William and Stephanie is 'mother-in-law'."
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Constance adores her daughter Mary. Mary loves her very much, too. Constance's brother Jacob was going to be the star in the new show. How is Mary related to Jacob?",
+    "choices": [
+      "A) Grandmother",
+      "B) Grandson",
+      "C) Uncle",
+      "D) Son"
+    ],
+    "answer": "D",
+    "explanation": "Based on the provided story, the relationship between Mary and Jacob is 'son'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Sam insists \"Aaron is a trustworthy person.\" Aaron insists \"If Jorge is someone who is reliable, then Sam is an untruthful individual.\" Nora maintains \"If Jorge is someone who is truthful, then Sam is someone who is dishonest.\" Who is the trustworthy person?",
+    "choices": [
+      "A) Aaron",
+      "B) Jorge",
+      "C) Sam",
+      "D) Nora"
+    ],
+    "answer": "A",
+    "explanation": "Solution: truth-tellers: Sam, Nora, Aaron. unreliable individuals: Jorge. Each person's statement must be consistent with their nature.",
+    "token_count": 66
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Sergio claims \"Paki is a truthful person.\" Kira states \"Paki is a reliable person.\" Paki declares \"If Kira is a trustworthy person, then Sergio is a reliable person.\" Who is the honest individual?",
+    "choices": [
+      "A) Kira",
+      "B) Paki",
+      "C) Sergio",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: reliable individuals: Kira, Sergio, Paki. Each person's statement must be consistent with their nature.",
+    "token_count": 62
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Otto states \"Xian is a truthful individual.\" Xian says \"If Sam is a reliable person, then Otto is a liar.\" Sam says \"Xian is someone who is unreliable.\" Who is the honest person?",
+    "choices": [
+      "A) Otto",
+      "B) Sam",
+      "C) Xian",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: truth-tellers: Xian, Otto. dishonest people: Sam. Each person's statement must be consistent with their nature.",
+    "token_count": 58
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Waldo insists \"Jira is someone who is reliable.\" Jira says \"If Iris is a truthful person, then Waldo is a dishonest person.\" Francine asserts \"If Jira is a truth-teller, then Iris is someone who is truthful.\" Who is the someone who is honest?",
+    "choices": [
+      "A) Jira",
+      "B) Iris",
+      "C) Francine",
+      "D) Waldo"
+    ],
+    "answer": "A",
+    "explanation": "Solution: reliable individuals: Jira, Waldo. dishonest people: Iris, Francine. Each person's statement must be consistent with their nature.",
+    "token_count": 75
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Margot asserts \"If Jack is a trustworthy person, then Camille is someone who is honest.\" Camille believes \"If Jack is a truthful person, then Margot is someone who is unreliable.\" Jack insists \"If Camille is a trustworthy person, then Margot is an untrustworthy person.\" Who tells the truth?",
+    "choices": [
+      "A) Camille",
+      "B) Jack",
+      "C) Margot",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: honest people: Camille, Margot. liars: Jack. Each person's statement must be consistent with their nature.",
+    "token_count": 80
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Dagmar insists \"If Wazi is a truth-teller, then Marco is an unreliable person.\" Wazi believes \"Dagmar is a liar.\" Marco says \"If Wazi is a trustworthy person, then Dagmar is someone who is truthful.\" Who is the trustworthy person?",
+    "choices": [
+      "A) Marco",
+      "B) Wazi",
+      "C) Dagmar",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: reliable individuals: Dagmar, Marco. unreliable individuals: Wazi. Each person's statement must be consistent with their nature.",
+    "token_count": 72
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Imani argues \"Mark is an unreliable person.\" Mark declares \"If Imani is someone who is truthful, then Sato is a reliable person.\" Sato maintains \"Imani is a truthful person.\" Who is the truthful individual?",
+    "choices": [
+      "A) Mark",
+      "B) Imani",
+      "C) Sato",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: honest people: Mark. liars: Imani, Sato. Each person's statement must be consistent with their nature.",
+    "token_count": 61
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Ximena insists \"Beth is a dishonest person.\" Beth insists \"If Ximena is a trustworthy person, then Zhao is a dishonest person.\" Zhao insists \"If Ximena is someone who is honest, then Beth is someone who is reliable.\" Who is the trustworthy person?",
+    "choices": [
+      "A) Zhao",
+      "B) Ximena",
+      "C) Beth",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: truth-tellers: Beth, Zhao. dishonest people: Ximena. Each person's statement must be consistent with their nature.",
+    "token_count": 71
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Bao believes \"Wei is a liar.\" Wei claims \"If Ivan is an honest individual, then Bao is a liar.\" Ivan argues \"If Bao is a truthful individual, then Wei is a truthful individual.\" Who is the honest individual?",
+    "choices": [
+      "A) Bao",
+      "B) Ivan",
+      "C) None",
+      "D) Wei"
+    ],
+    "answer": "D",
+    "explanation": "Solution: reliable individuals: Ivan, Wei. dishonest people: Bao. Each person's statement must be consistent with their nature.",
+    "token_count": 63
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Geraldine went to the NFL game with her husband, Thomas, and her mother, Constance. How is Thomas related to Constance?",
+    "choices": [
+      "A) Grandfather",
+      "B) Mother-in-law",
+      "C) Uncle",
+      "D) Granddaughter"
+    ],
+    "answer": "B",
+    "explanation": "Based on the provided story, the relationship between Thomas and Constance is 'mother-in-law'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Dara maintains \"Imani is someone who is reliable.\" Imani insists \"If Dara is a truthful person, then Grace is someone who lies.\" Grace maintains \"Imani is a dishonest person.\" Who is the truthful individual?",
+    "choices": [
+      "A) Imani",
+      "B) Grace",
+      "C) Dara",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: honest people: Imani, Dara. unreliable individuals: Grace. Each person's statement must be consistent with their nature.",
+    "token_count": 61
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Nia claims \"If Vega is someone who is truthful, then Luis is a trustworthy person.\" Vega claims \"Nia is someone who lies.\" Luis states \"Nia is someone who is untruthful.\" Who is the trustworthy person?",
+    "choices": [
+      "A) Nia",
+      "B) Vega",
+      "C) Luis",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: honest people: Nia. unreliable individuals: Vega, Luis. Each person's statement must be consistent with their nature.",
+    "token_count": 61
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Leslie's son, Jerry, had to stay home from school with a cold. Lawrence took his favorite son Peter to a baseball game where he caught a foul ball as a souvenir. Leslie stayed with her mother Carla before the birth of her son Lawrence Jerry was thrilled his brother, Lawrence, was able to make it to the party. How is Peter related to Carla?",
+    "choices": [
+      "A) Mother",
+      "B) Daughter",
+      "C) Aunt",
+      "D) Son"
+    ],
+    "answer": "A",
+    "explanation": "Based on the provided story, the relationship between Peter and Carla is 'mother'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Eiji believes \"If Ping is a truthful person, then Dean is someone who is dishonest.\" Ping declares \"Zoran is someone who is truthful.\" Zoran believes \"Eiji is a truthful person.\" Who is the truthful person?",
+    "choices": [
+      "A) Dean",
+      "B) Ping",
+      "C) Zoran",
+      "D) Eiji"
+    ],
+    "answer": "C",
+    "explanation": "Solution: truth-tellers: Ping, Eiji, Zoran. dishonest people: Dean. Each person's statement must be consistent with their nature.",
+    "token_count": 61
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Carmen insists \"If Zara is a truthful individual, then Thor is an untruthful individual.\" Zara insists \"Fola is an honest person.\" Fola says \"Carmen is an honest person.\" Who is the truthful individual?",
+    "choices": [
+      "A) Carmen",
+      "B) Thor",
+      "C) Zara",
+      "D) Fola"
+    ],
+    "answer": "A",
+    "explanation": "Solution: reliable individuals: Zara, Fola, Carmen. unreliable individuals: Thor. Each person's statement must be consistent with their nature.",
+    "token_count": 65
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Dorothea visited her grandfather, Scott, in the nursing home. Imelda went on a vacation with her brother Richard. Dorothea and her brother Richard went to the basketball game and had a great time. How is Imelda related to Scott?",
+    "choices": [
+      "A) Father-in-law",
+      "B) Grandmother",
+      "C) Grandfather",
+      "D) Daughter"
+    ],
+    "answer": "C",
+    "explanation": "Based on the provided story, the relationship between Imelda and Scott is 'grandfather'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Yago maintains \"If Elena is an honest person, then Nico is a truthful person.\" Nico maintains \"If Elena is an honest individual, then Yago is someone who is reliable.\" Elena states \"Yago is an honest individual.\" Who is the truthful individual?",
+    "choices": [
+      "A) Elena",
+      "B) Yago",
+      "C) Nico",
+      "D) None"
+    ],
+    "answer": "C",
+    "explanation": "Solution: honest people: Elena, Nico, Yago. Each person's statement must be consistent with their nature.",
+    "token_count": 66
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Malik states \"If Claire is a trustworthy person, then Yves is someone who is dishonest.\" Claire declares \"Malik is an untruthful person.\" Yves says \"Claire is an untruthful individual.\" Who is the someone who is truthful?",
+    "choices": [
+      "A) Yves",
+      "B) Claire",
+      "C) Malik",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: truth-tellers: Malik, Yves. unreliable individuals: Claire. Each person's statement must be consistent with their nature.",
+    "token_count": 66
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Emi insists \"If Jira is a truthful person, then Bowen is a truthful individual.\" Bowen asserts \"If Jira is an honest person, then Emi is someone who lies.\" Jira maintains \"If Bowen is someone who is truthful, then Emi is someone who lies.\" Who is the someone who is reliable?",
+    "choices": [
+      "A) Emi",
+      "B) Jira",
+      "C) Bowen",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: truth-tellers: Bowen, Emi. unreliable individuals: Jira. Each person's statement must be consistent with their nature.",
+    "token_count": 80
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Eve believes \"If Kiko is a reliable person, then Tara is a liar.\" Tara says \"If Kiko is someone who is reliable, then Eve is someone who tells the truth.\" Kai states \"If Kiko is a truthful individual, then Eve is someone who is reliable.\" Who is the honest person?",
+    "choices": [
+      "A) Kiko",
+      "B) Tara",
+      "C) Kai",
+      "D) Eve"
+    ],
+    "answer": "D",
+    "explanation": "Solution: honest people: Eve, Tara, Kai. liars: Kiko. Each person's statement must be consistent with their nature.",
+    "token_count": 77
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Tomas believes \"If Erik is an honest person, then Mario is someone who is truthful.\" Mario says \"If Tomas is someone who is truthful, then Erik is an untruthful individual.\" Erik declares \"Mario is an untruthful person.\" Who is the someone who is honest?",
+    "choices": [
+      "A) Erik",
+      "B) Tomas",
+      "C) None",
+      "D) Mario"
+    ],
+    "answer": "D",
+    "explanation": "Solution: honest people: Tomas, Mario. unreliable individuals: Erik. Each person's statement must be consistent with their nature.",
+    "token_count": 70
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Gina states \"If Sani is a reliable person, then Nina is a reliable person.\" Sani insists \"Nils is someone who is dishonest.\" Nils maintains \"Gina is someone who lies.\" Who is the someone who is honest?",
+    "choices": [
+      "A) Nils",
+      "B) Gina",
+      "C) Sani",
+      "D) Nina"
+    ],
+    "answer": "C",
+    "explanation": "Solution: reliable individuals: Gina, Sani, Nina. liars: Nils. Each person's statement must be consistent with their nature.",
+    "token_count": 64
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Leo states \"If Kate is someone who is reliable, then Hans is someone who is truthful.\" Demi asserts \"If Kate is an honest individual, then Hans is someone who is untruthful.\" Kate asserts \"Leo is someone who tells the truth.\" Who is the honest individual?",
+    "choices": [
+      "A) Demi",
+      "B) Hans",
+      "C) Kate",
+      "D) Leo"
+    ],
+    "answer": "B",
+    "explanation": "Solution: truth-tellers: Kate, Hans, Leo. liars: Demi. Each person's statement must be consistent with their nature.",
+    "token_count": 70
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Zoran insists \"Nori is an honest person.\" Fola states \"If Zoran is someone who is reliable, then Nori is an untruthful person.\" Nori says \"If Zoran is someone who is truthful, then Fola is an unreliable person.\" Who is the honest individual?",
+    "choices": [
+      "A) Nori",
+      "B) Fola",
+      "C) Zoran",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: honest people: Zoran, Nori. dishonest people: Fola. Each person's statement must be consistent with their nature.",
+    "token_count": 76
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Fola declares \"Zoran is a dishonest person.\" Zoran claims \"If Fola is a truthful individual, then Nori is an untruthful person.\" Nori states \"Fola is someone who is unreliable.\" Who is the trustworthy person?",
+    "choices": [
+      "A) Fola",
+      "B) Zoran",
+      "C) Nori",
+      "D) None"
+    ],
+    "answer": "C",
+    "explanation": "Solution: reliable individuals: Zoran, Nori. unreliable individuals: Fola. Each person's statement must be consistent with their nature.",
+    "token_count": 66
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "David states \"If Klaus is an honest person, then Imani is a trustworthy person.\" Imani insists \"If Klaus is someone who tells the truth, then Jin is someone who lies.\" Jin believes \"David is a truth-teller.\" Who is the honest person?",
+    "choices": [
+      "A) David",
+      "B) Klaus",
+      "C) Imani",
+      "D) Jin"
+    ],
+    "answer": "A",
+    "explanation": "Solution: truth-tellers: Imani, Jin, David. liars: Klaus. Each person's statement must be consistent with their nature.",
+    "token_count": 67
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Bret and his brother Jose are fighting again. Jose brought home straight A's to his father John. Allan brought home straight C's to his father John. How is Allan related to Bret?",
+    "choices": [
+      "A) Brother",
+      "B) Father-in-law",
+      "C) Son",
+      "D) Grandson"
+    ],
+    "answer": "A",
+    "explanation": "Based on the provided story, the relationship between Allan and Bret is 'brother'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Hana claims \"If Leo is someone who is reliable, then Nora is a trustworthy person.\" Leo claims \"Nora is a truthful person.\" Nora insists \"Hana is someone who is reliable.\" Who is the truth-teller?",
+    "choices": [
+      "A) Hana",
+      "B) Leo",
+      "C) Nora",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: reliable individuals: Leo, Hana, Nora. Each person's statement must be consistent with their nature.",
+    "token_count": 60
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Jin says \"Lola is someone who is reliable.\" Lola declares \"If Jin is an honest person, then Claire is someone who is untruthful.\" Claire argues \"Kirsten is someone who is reliable.\" Who is the reliable person?",
+    "choices": [
+      "A) Claire",
+      "B) Jin",
+      "C) Kirsten",
+      "D) Lola"
+    ],
+    "answer": "B",
+    "explanation": "Solution: honest people: Lola, Jin. unreliable individuals: Claire, Kirsten. Each person's statement must be consistent with their nature.",
+    "token_count": 63
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Stephanie, Mary's daughter, was having trouble with her own daughter, Bridget. Bridget was misbehaving at school. How is Mary related to Bridget?",
+    "choices": [
+      "A) Grandmother",
+      "B) Granddaughter",
+      "C) Daughter",
+      "D) Mother"
+    ],
+    "answer": "B",
+    "explanation": "Based on the provided story, the relationship between Mary and Bridget is 'granddaughter'."
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Everyone said Billy looked just like his father, Matthew. They had the same build, facial features, and even combed their hair in a similar style. Latisha took her grandson Andy to daycare today. Andy and his brother Billy went to the park. They threw a ball around and played with their dog. How is Matthew related to Latisha?",
+    "choices": [
+      "A) Daughter",
+      "B) Niece",
+      "C) Mother",
+      "D) Sister"
+    ],
+    "answer": "C",
+    "explanation": "Based on the provided story, the relationship between Matthew and Latisha is 'mother'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Bruno maintains \"If Tomas is someone who tells the truth, then Nia is a truth-teller.\" Nia insists \"Bruno is someone who is dishonest.\" Emi claims \"Nia is someone who is untruthful.\" Who is the honest individual?",
+    "choices": [
+      "A) Tomas",
+      "B) Nia",
+      "C) Bruno",
+      "D) Emi"
+    ],
+    "answer": "C",
+    "explanation": "Solution: reliable individuals: Bruno, Emi. unreliable individuals: Tomas, Nia. Each person's statement must be consistent with their nature.",
+    "token_count": 68
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Herman has always felt ignored in his big family. His brother Jacob always got all the attention of their parents, who recounted his every accomplishment to all the household. Marjorie loves painting with her father. His name is Jacob. How is Herman related to Marjorie?",
+    "choices": [
+      "A) Father-in-law",
+      "B) Niece",
+      "C) Aunt",
+      "D) Daughter"
+    ],
+    "answer": "B",
+    "explanation": "Based on the provided story, the relationship between Herman and Marjorie is 'niece'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Iris claims \"Waldo is someone who is untruthful.\" Waldo believes \"If Jira is an honest individual, then Iris is an honest person.\" Francine states \"If Jira is someone who is truthful, then Iris is a truthful person.\" Who is the someone who is honest?",
+    "choices": [
+      "A) Jira",
+      "B) Waldo",
+      "C) Iris",
+      "D) Francine"
+    ],
+    "answer": "B",
+    "explanation": "Solution: truth-tellers: Waldo, Francine. liars: Jira, Iris. Each person's statement must be consistent with their nature.",
+    "token_count": 76
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Mary wants to make a special meal for her daughter Constance's birthday. Constance surprised her husband Ernest by send flowers to his office on their anniversary. How is Mary related to Ernest?",
+    "choices": [
+      "A) Grandson",
+      "B) Son-in-law",
+      "C) Daughter-in-law",
+      "D) Son"
+    ],
+    "answer": "B",
+    "explanation": "Based on the provided story, the relationship between Mary and Ernest is 'son-in-law'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Marco declares \"If Xara is a truth-teller, then Dara is a reliable person.\" Xara claims \"Marco is someone who is unreliable.\" Dara claims \"Xara is someone who tells the truth.\" Who is the someone who is truthful?",
+    "choices": [
+      "A) Marco",
+      "B) Xara",
+      "C) Dara",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: truth-tellers: Marco. dishonest people: Xara, Dara. Each person's statement must be consistent with their nature.",
+    "token_count": 66
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "David asserts \"Carmen is an unreliable person.\" Maria asserts \"Fola is someone who is honest.\" Fola asserts \"If Maria is an honest individual, then Carmen is a reliable person.\" Who is the someone who is truthful?",
+    "choices": [
+      "A) David",
+      "B) Carmen",
+      "C) Maria",
+      "D) Fola"
+    ],
+    "answer": "C",
+    "explanation": "Solution: truth-tellers: Maria, Carmen, Fola. liars: David. Each person's statement must be consistent with their nature.",
+    "token_count": 61
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Latisha took her granddaughter Claudia shopping. Alma could n't wait to get off the plane to see her mother, Sandy. Alma's daughter, Claudia, just graduated high school. How is Sandy related to Latisha?",
+    "choices": [
+      "A) Nephew",
+      "B) Grandmother",
+      "C) Father-in-law",
+      "D) Mother"
+    ],
+    "answer": "B",
+    "explanation": "Based on the provided story, the relationship between Sandy and Latisha is 'grandmother'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Chris argues \"If Hawa is a truthful person, then Penny is someone who is honest.\" Hawa believes \"If Chris is a reliable person, then Penny is a truth-teller.\" Penny insists \"Chris is an untruthful individual.\" Who is the someone who is truthful?",
+    "choices": [
+      "A) Hawa",
+      "B) Penny",
+      "C) None",
+      "D) Chris"
+    ],
+    "answer": "D",
+    "explanation": "Solution: truth-tellers: Chris. unreliable individuals: Hawa, Penny. Each person's statement must be consistent with their nature.",
+    "token_count": 70
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Paki declares \"If Liesl is someone who is truthful, then Klaus is a dishonest person.\" Liesl claims \"If Paki is an honest individual, then Klaus is a dishonest individual.\" Klaus declares \"If Paki is a truth-teller, then Liesl is someone who is honest.\" Who is the trustworthy person?",
+    "choices": [
+      "A) Paki",
+      "B) Liesl",
+      "C) Klaus",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: truth-tellers: Liesl, Klaus. dishonest people: Paki. Each person's statement must be consistent with their nature.",
+    "token_count": 80
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Tom's mother Michelle made a cake for his birthday and her other son Keith ate a piece of it. Rich and his son Keith went to the park to look for different kinds of birds. How is Tom related to Rich?",
+    "choices": [
+      "A) Grandfather",
+      "B) Aunt",
+      "C) Father",
+      "D) Daughter"
+    ],
+    "answer": "C",
+    "explanation": "Based on the provided story, the relationship between Tom and Rich is 'father'."
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Herman and his brother John were wrestling. Suanne, Herman's daughter, was cheering on the competition. How is John related to Suanne?",
+    "choices": [
+      "A) Daughter",
+      "B) Mother-in-law",
+      "C) Father-in-law",
+      "D) Niece"
+    ],
+    "answer": "D",
+    "explanation": "Based on the provided story, the relationship between John and Suanne is 'niece'."
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Tom's grandfather, Scott, was part of a famous band. Katherine drove all the way from her little town to see her brother Rich's family. It's a big day in Rich's family. His son Tom is getting married. How is Katherine related to Scott?",
+    "choices": [
+      "A) Daughter-in-law",
+      "B) Mother-in-law",
+      "C) Father",
+      "D) Son"
+    ],
+    "answer": "C",
+    "explanation": "Based on the provided story, the relationship between Katherine and Scott is 'father'."
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Rich went to the park with his father, Scott. Donna went to visit her aunt, Katherine, who's birthday was yesterday. Rich read his daughter Donna a bedtime story. Soon she was fast asleep. How is Scott related to Katherine?",
+    "choices": [
+      "A) Niece",
+      "B) Daughter",
+      "C) Sister",
+      "D) Daughter-in-law"
+    ],
+    "answer": "B",
+    "explanation": "Based on the provided story, the relationship between Scott and Katherine is 'daughter'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Iris asserts \"If Hilda is someone who is honest, then Jutta is someone who is dishonest.\" Jutta claims \"Iris is someone who is unreliable.\" Hilda declares \"Iris is someone who is reliable.\" Who is the truthful individual?",
+    "choices": [
+      "A) Jutta",
+      "B) Hilda",
+      "C) Iris",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: truth-tellers: Hilda, Iris. dishonest people: Jutta. Each person's statement must be consistent with their nature.",
+    "token_count": 66
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Ping states \"If Igor is a truthful individual, then Nami is a dishonest person.\" Nami declares \"Ping is someone who is dishonest.\" Igor asserts \"Ping is a truth-teller.\" Who is the truthful person?",
+    "choices": [
+      "A) Nami",
+      "B) Igor",
+      "C) None",
+      "D) Ping"
+    ],
+    "answer": "D",
+    "explanation": "Solution: truth-tellers: Igor, Ping. liars: Nami. Each person's statement must be consistent with their nature.",
+    "token_count": 58
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Bao believes \"Owen is someone who is truthful.\" Owen claims \"If Bao is a truthful person, then Zoran is an untruthful person.\" Zoran maintains \"Owen is someone who is unreliable.\" Who is the truthful person?",
+    "choices": [
+      "A) Owen",
+      "B) Zoran",
+      "C) Bao",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: reliable individuals: Owen, Bao. dishonest people: Zoran. Each person's statement must be consistent with their nature.",
+    "token_count": 65
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Ona asserts \"If Akira is someone who tells the truth, then Stefan is someone who lies.\" Akira maintains \"Ona is a reliable person.\" Ines maintains \"If Akira is a truthful individual, then Ona is someone who is truthful.\" Who is the truth-teller?",
+    "choices": [
+      "A) Stefan",
+      "B) Akira",
+      "C) Ines",
+      "D) Ona"
+    ],
+    "answer": "C",
+    "explanation": "Solution: honest people: Akira, Ona, Ines. unreliable individuals: Stefan. Each person's statement must be consistent with their nature.",
+    "token_count": 75
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Kesi insists \"If Hilda is an honest individual, then Osamu is a dishonest person.\" Jack states \"Osamu is a dishonest individual.\" Hilda declares \"If Osamu is a truth-teller, then Kesi is a truthful individual.\" Who is the someone who tells the truth?",
+    "choices": [
+      "A) Osamu",
+      "B) Kesi",
+      "C) Jack",
+      "D) Hilda"
+    ],
+    "answer": "D",
+    "explanation": "Solution: reliable individuals: Hilda, Kesi, Jack. dishonest people: Osamu. Each person's statement must be consistent with their nature.",
+    "token_count": 75
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Henry says \"Nami is an honest individual.\" Igor believes \"Henry is a trustworthy person.\" Nami claims \"If Henry is a truthful person, then Igor is someone who is reliable.\" Who is the honest person?",
+    "choices": [
+      "A) Igor",
+      "B) Henry",
+      "C) Nami",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: truth-tellers: Henry, Igor, Nami. Each person's statement must be consistent with their nature.",
+    "token_count": 57
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Olga argues \"Mei is someone who lies.\" Zoe maintains \"Mei is an untruthful individual.\" Mei declares \"If Zoe is someone who is reliable, then Olga is a trustworthy person.\" Who is the someone who is truthful?",
+    "choices": [
+      "A) Mei",
+      "B) Zoe",
+      "C) Olga",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: reliable individuals: Mei. liars: Zoe, Olga. Each person's statement must be consistent with their nature.",
+    "token_count": 63
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Luna maintains \"If Dolores is someone who is reliable, then Iko is an untrustworthy person.\" Dolores says \"Iko is a dishonest person.\" Iko maintains \"If Dolores is a truthful person, then Luna is someone who is honest.\" Who is the someone who tells the truth?",
+    "choices": [
+      "A) Dolores",
+      "B) Iko",
+      "C) None",
+      "D) Luna"
+    ],
+    "answer": "D",
+    "explanation": "Solution: truth-tellers: Luna, Iko. liars: Dolores. Each person's statement must be consistent with their nature.",
+    "token_count": 77
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Dale's father Rich is going to coach the team this year. Rich bought his wife Michelle a new phone for her birthday. She loved it. Dale always enjoyed playing with his sister, Clara, when they were growing up. How is Michelle related to Clara?",
+    "choices": [
+      "A) Daughter",
+      "B) Grandfather",
+      "C) Mother",
+      "D) Daughter-in-law"
+    ],
+    "answer": "A",
+    "explanation": "Based on the provided story, the relationship between Michelle and Clara is 'daughter'."
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Glenn was ratted out by his sister Imelda when he snuck out of the house, so Glenn decided to hide Imelda's purse. James watched his daughter Crystal playing basketball. Crystal threw the ball to her brother Glenn who made the basket. How is James related to Imelda?",
+    "choices": [
+      "A) Son",
+      "B) Son-in-law",
+      "C) Grandson",
+      "D) Daughter"
+    ],
+    "answer": "D",
+    "explanation": "Based on the provided story, the relationship between James and Imelda is 'daughter'."
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Rich was so proud of his daughter, Clara, graduating at the top of her class. Latisha bought a nice toy for her grandson Dale. This made Dale's sister Clara very jealous. How is Rich related to Latisha?",
+    "choices": [
+      "A) Daughter",
+      "B) Father-in-law",
+      "C) Nephew",
+      "D) Mother"
+    ],
+    "answer": "D",
+    "explanation": "Based on the provided story, the relationship between Rich and Latisha is 'mother'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Xara maintains \"Mario is a dishonest person.\" Mario argues \"If Xara is a truth-teller, then Ren is someone who is reliable.\" Ren maintains \"Mario is a liar.\" Who is the honest individual?",
+    "choices": [
+      "A) Xara",
+      "B) Mario",
+      "C) Ren",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: reliable individuals: Mario. unreliable individuals: Xara, Ren. Each person's statement must be consistent with their nature.",
+    "token_count": 57
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Kim argues \"If Pablo is a truth-teller, then Liesl is someone who is reliable.\" Pablo maintains \"Liesl is an honest person.\" Liesl declares \"Kim is a trustworthy person.\" Who is the someone who is reliable?",
+    "choices": [
+      "A) Liesl",
+      "B) Kim",
+      "C) Pablo",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: honest people: Kim, Pablo, Liesl. Each person's statement must be consistent with their nature.",
+    "token_count": 62
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Anders maintains \"Kato is an honest person.\" Lola argues \"Kato is a liar.\" Kato declares \"If Lola is someone who is truthful, then Anders is an untruthful individual.\" Who is the truthful person?",
+    "choices": [
+      "A) Lola",
+      "B) Anders",
+      "C) None",
+      "D) Kato"
+    ],
+    "answer": "D",
+    "explanation": "Solution: reliable individuals: Kato, Anders. dishonest people: Lola. Each person's statement must be consistent with their nature.",
+    "token_count": 60
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Iko says \"Emi is a truthful person.\" Umi believes \"Iko is a reliable person.\" Emi maintains \"If Elsa is a truthful individual, then Umi is someone who is unreliable.\" Who is the someone who tells the truth?",
+    "choices": [
+      "A) Emi",
+      "B) Elsa",
+      "C) Umi",
+      "D) Iko"
+    ],
+    "answer": "A",
+    "explanation": "Solution: honest people: Emi, Umi, Iko. dishonest people: Elsa. Each person's statement must be consistent with their nature.",
+    "token_count": 66
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Anders argues \"If David is someone who is reliable, then Claude is an honest person.\" Jutta argues \"Claude is someone who is untruthful.\" Claude maintains \"Anders is an untruthful individual.\" Who is the reliable person?",
+    "choices": [
+      "A) David",
+      "B) Jutta",
+      "C) Claude",
+      "D) Anders"
+    ],
+    "answer": "B",
+    "explanation": "Solution: reliable individuals: Anders, Jutta. dishonest people: David, Claude. Each person's statement must be consistent with their nature.",
+    "token_count": 64
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Loretta went with her brother Joshua to the mall to buy some new candles. Loretta spent the whole month of January at her grandfather Scott's house. Joshua and Allan are brothers who look nothing alike. How is Allan related to Scott?",
+    "choices": [
+      "A) Niece",
+      "B) Grandfather",
+      "C) Daughter",
+      "D) Son"
+    ],
+    "answer": "B",
+    "explanation": "Based on the provided story, the relationship between Allan and Scott is 'grandfather'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Amari says \"Emma is an unreliable person.\" Emma says \"If Adrian is someone who is honest, then Amari is a dishonest individual.\" Adrian says \"Amari is a dishonest individual.\" Who is the someone who tells the truth?",
+    "choices": [
+      "A) Amari",
+      "B) Emma",
+      "C) None",
+      "D) Adrian"
+    ],
+    "answer": "D",
+    "explanation": "Solution: reliable individuals: Emma, Adrian. liars: Amari. Each person's statement must be consistent with their nature.",
+    "token_count": 61
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Herman took his son Guy fishing one day and Herman's wife Lois packed them food to take with them. How is Lois related to Guy?",
+    "choices": [
+      "A) Daughter-in-law",
+      "B) Son",
+      "C) Father",
+      "D) Grandson"
+    ],
+    "answer": "B",
+    "explanation": "Based on the provided story, the relationship between Lois and Guy is 'son'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Lin claims \"If Rosa is a truth-teller, then Owen is a reliable person.\" Owen declares \"If Rosa is a truthful individual, then Lin is someone who is reliable.\" Rosa claims \"Owen is a trustworthy person.\" Who is the truthful individual?",
+    "choices": [
+      "A) Rosa",
+      "B) Lin",
+      "C) None",
+      "D) Owen"
+    ],
+    "answer": "D",
+    "explanation": "Solution: honest people: Rosa, Owen, Lin. Each person's statement must be consistent with their nature.",
+    "token_count": 64
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Alex insists \"Chie is a trustworthy person.\" Demi maintains \"Chie is an untruthful individual.\" Chie claims \"If Alex is someone who tells the truth, then Demi is someone who is dishonest.\" Who is the someone who is truthful?",
+    "choices": [
+      "A) Demi",
+      "B) Alex",
+      "C) None",
+      "D) Chie"
+    ],
+    "answer": "D",
+    "explanation": "Solution: honest people: Chie, Alex. dishonest people: Demi. Each person's statement must be consistent with their nature.",
+    "token_count": 67
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Gabriel insists \"Qasim is an honest individual.\" Qasim insists \"Hugo is a dishonest individual.\" Hugo maintains \"If Qasim is a truthful person, then Gabriel is a truth-teller.\" Who is the truth-teller?",
+    "choices": [
+      "A) Hugo",
+      "B) Qasim",
+      "C) Gabriel",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: truth-tellers: Hugo. dishonest people: Qasim, Gabriel. Each person's statement must be consistent with their nature.",
+    "token_count": 65
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Jean claims \"David is someone who lies.\" David states \"If Helga is someone who is honest, then Felipe is someone who is unreliable.\" Felipe asserts \"If Helga is a reliable person, then Jean is an untrustworthy person.\" Who is the truthful individual?",
+    "choices": [
+      "A) Helga",
+      "B) Jean",
+      "C) David",
+      "D) Felipe"
+    ],
+    "answer": "D",
+    "explanation": "Solution: honest people: Felipe, David. unreliable individuals: Helga, Jean. Each person's statement must be consistent with their nature.",
+    "token_count": 68
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Henry says \"Nami is an honest individual.\" Igor believes \"Henry is a trustworthy person.\" Nami claims \"If Henry is a truthful person, then Igor is someone who is reliable.\" Who is the honest person?",
+    "choices": [
+      "A) Igor",
+      "B) Henry",
+      "C) Nami",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: truth-tellers: Henry, Igor, Nami. Each person's statement must be consistent with their nature.",
+    "token_count": 57
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Eve maintains \"Ren is someone who is honest.\" Ren claims \"Pablo is an untrustworthy person.\" Pablo believes \"If Eve is someone who is reliable, then Ren is a truthful individual.\" Who is the truthful person?",
+    "choices": [
+      "A) Eve",
+      "B) Pablo",
+      "C) Ren",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: reliable individuals: Pablo. dishonest people: Eve, Ren. Each person's statement must be consistent with their nature.",
+    "token_count": 59
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Keith's father has a sister named Katherine. Michelle is going dancing at a club with her husband Rich. On his way there, Rich stops at his son Keith's house for a quick visit. How is Michelle related to Katherine?",
+    "choices": [
+      "A) Sister",
+      "B) Granddaughter",
+      "C) Brother",
+      "D) Mother"
+    ],
+    "answer": "A",
+    "explanation": "Based on the provided story, the relationship between Michelle and Katherine is 'sister'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Zara claims \"If Noah is someone who is honest, then Ming is someone who is reliable.\" Ming maintains \"Zara is a reliable person.\" Noah believes \"Ming is someone who is honest.\" Who is the honest person?",
+    "choices": [
+      "A) Noah",
+      "B) Ming",
+      "C) None",
+      "D) Zara"
+    ],
+    "answer": "D",
+    "explanation": "Solution: truth-tellers: Noah, Ming, Zara. Each person's statement must be consistent with their nature.",
+    "token_count": 60
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Iris believes \"If Lei is someone who is truthful, then Chen is someone who is honest.\" Lei claims \"Iris is an untrustworthy person.\" Chen says \"Iris is someone who is untruthful.\" Who is the someone who is reliable?",
+    "choices": [
+      "A) Lei",
+      "B) Chen",
+      "C) Iris",
+      "D) None"
+    ],
+    "answer": "C",
+    "explanation": "Solution: truth-tellers: Iris. unreliable individuals: Lei, Chen. Each person's statement must be consistent with their nature.",
+    "token_count": 65
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Michelle and Helen got into a fight as sisters sometimes do. Helen's father Scott yelled at them to behave. Katherine needed to go to the store. Katherine asked her sister Michelle for a ride. How is Scott related to Katherine?",
+    "choices": [
+      "A) Grandfather",
+      "B) Mother",
+      "C) Daughter",
+      "D) Uncle"
+    ],
+    "answer": "C",
+    "explanation": "Based on the provided story, the relationship between Scott and Katherine is 'daughter'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Chris declares \"Penny is someone who is reliable.\" Penny argues \"Tara is an untruthful individual.\" Tara believes \"If Penny is someone who is honest, then Chris is a truthful person.\" Who is the truthful individual?",
+    "choices": [
+      "A) Penny",
+      "B) Chris",
+      "C) Tara",
+      "D) None"
+    ],
+    "answer": "C",
+    "explanation": "Solution: reliable individuals: Tara. liars: Penny, Chris. Each person's statement must be consistent with their nature.",
+    "token_count": 59
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Leo insists \"If Hana is someone who is reliable, then Nora is someone who is honest.\" Hana states \"Asha is an untruthful individual.\" Nora says \"If Leo is someone who is truthful, then Hana is an unreliable person.\" Who is the truthful person?",
+    "choices": [
+      "A) Hana",
+      "B) Nora",
+      "C) Leo",
+      "D) Asha"
+    ],
+    "answer": "C",
+    "explanation": "Solution: honest people: Leo, Nora, Asha. unreliable individuals: Hana. Each person's statement must be consistent with their nature.",
+    "token_count": 72
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Fabia says \"If Qing is a trustworthy person, then Jake is someone who is truthful.\" Qing believes \"Jake is someone who lies.\" Jake claims \"If Fabia is someone who is truthful, then Qing is an unreliable person.\" Who is the someone who is truthful?",
+    "choices": [
+      "A) Qing",
+      "B) Fabia",
+      "C) Jake",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: honest people: Fabia, Jake. dishonest people: Qing. Each person's statement must be consistent with their nature.",
+    "token_count": 68
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Xavier states \"If Dmitri is a reliable person, then Gazi is a reliable person.\" Gazi asserts \"Xavier is a liar.\" Dmitri insists \"Jake is someone who is truthful.\" Who is the truthful person?",
+    "choices": [
+      "A) Dmitri",
+      "B) Gazi",
+      "C) Xavier",
+      "D) Jake"
+    ],
+    "answer": "C",
+    "explanation": "Solution: honest people: Xavier. liars: Dmitri, Gazi, Jake. Each person's statement must be consistent with their nature.",
+    "token_count": 61
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Rich and his brother James love to play catch in the backyard. Imelda watches as his father James misses every ball thrown his way. Richard's sister, Imelda, was so happy to have him home. He was home from college. How is Richard related to Rich?",
+    "choices": [
+      "A) Father-in-law",
+      "B) Mother-in-law",
+      "C) Uncle",
+      "D) Grandfather"
+    ],
+    "answer": "C",
+    "explanation": "Based on the provided story, the relationship between Richard and Rich is 'uncle'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Kato maintains \"If Waldo is a trustworthy person, then Sam is an untrustworthy person.\" Waldo asserts \"Nina is someone who is dishonest.\" Nina maintains \"Kato is someone who lies.\" Who is the truthful person?",
+    "choices": [
+      "A) Sam",
+      "B) Waldo",
+      "C) Nina",
+      "D) Kato"
+    ],
+    "answer": "B",
+    "explanation": "Solution: truth-tellers: Waldo, Kato. liars: Sam, Nina. Each person's statement must be consistent with their nature.",
+    "token_count": 63
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Iko claims \"Hawa is a liar.\" Alex believes \"Iko is a dishonest individual.\" Hawa maintains \"If Bakari is a truthful person, then Alex is a dishonest person.\" Who is the honest individual?",
+    "choices": [
+      "A) Bakari",
+      "B) Alex",
+      "C) Iko",
+      "D) Hawa"
+    ],
+    "answer": "B",
+    "explanation": "Solution: truth-tellers: Hawa, Alex. liars: Bakari, Iko. Each person's statement must be consistent with their nature.",
+    "token_count": 60
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Greta states \"If Fola is a truth-teller, then Carmen is an honest person.\" Fola says \"If Carmen is a truthful person, then Greta is a liar.\" Carmen declares \"If Fola is a reliable person, then Greta is an unreliable person.\" Who is the truth-teller?",
+    "choices": [
+      "A) Greta",
+      "B) Fola",
+      "C) Carmen",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: honest people: Carmen, Greta. unreliable individuals: Fola. Each person's statement must be consistent with their nature.",
+    "token_count": 78
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Ona believes \"Waldo is an honest person.\" Viktor states \"If Ona is a truth-teller, then Waldo is someone who tells the truth.\" Waldo insists \"If Ona is someone who is honest, then Viktor is a truth-teller.\" Who is the someone who is truthful?",
+    "choices": [
+      "A) Ona",
+      "B) Waldo",
+      "C) None",
+      "D) Viktor"
+    ],
+    "answer": "D",
+    "explanation": "Solution: truth-tellers: Ona, Waldo, Viktor. Each person's statement must be consistent with their nature.",
+    "token_count": 76
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Jia states \"If Ife is someone who tells the truth, then Kim is someone who is untruthful.\" Kim maintains \"Jia is someone who tells the truth.\" Ife believes \"If Jia is someone who is honest, then Kim is an untruthful individual.\" Who is the trustworthy person?",
+    "choices": [
+      "A) Kim",
+      "B) Ife",
+      "C) Jia",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: reliable individuals: Jia, Kim. unreliable individuals: Ife. Each person's statement must be consistent with their nature.",
+    "token_count": 78
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Jomo states \"If Ben is a trustworthy person, then Nami is someone who is truthful.\" Fiona argues \"If Ben is someone who tells the truth, then Jomo is a dishonest individual.\" Ben maintains \"Fiona is a reliable person.\" Who is the trustworthy person?",
+    "choices": [
+      "A) Ben",
+      "B) Jomo",
+      "C) Nami",
+      "D) Fiona"
+    ],
+    "answer": "A",
+    "explanation": "Solution: honest people: Ben, Fiona. dishonest people: Jomo, Nami. Each person's statement must be consistent with their nature.",
+    "token_count": 70
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Geraldine just recently met her father, Ernest. They both love to fish and hunt. Geraldine went with her husband Thomas to the park to watch the sunset. How is Thomas related to Ernest?",
+    "choices": [
+      "A) Father-in-law",
+      "B) Daughter",
+      "C) Son",
+      "D) Mother"
+    ],
+    "answer": "A",
+    "explanation": "Based on the provided story, the relationship between Thomas and Ernest is 'father-in-law'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Nuru declares \"Jomo is someone who is reliable.\" Eshe asserts \"Jomo is a truth-teller.\" Jomo maintains \"If Nuru is an honest person, then Eshe is a truthful person.\" Who is the truthful individual?",
+    "choices": [
+      "A) Nuru",
+      "B) Jomo",
+      "C) Eshe",
+      "D) None"
+    ],
+    "answer": "C",
+    "explanation": "Solution: truth-tellers: Nuru, Jomo, Eshe. Each person's statement must be consistent with their nature.",
+    "token_count": 65
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Leo declares \"Hans is a dishonest individual.\" Gabriel believes \"Leo is someone who is dishonest.\" Hans asserts \"If Leo is a trustworthy person, then Gabriel is an unreliable person.\" Who is the someone who is honest?",
+    "choices": [
+      "A) Leo",
+      "B) Gabriel",
+      "C) None",
+      "D) Hans"
+    ],
+    "answer": "D",
+    "explanation": "Solution: truth-tellers: Gabriel, Hans. dishonest people: Leo. Each person's statement must be consistent with their nature.",
+    "token_count": 57
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Pierre maintains \"If Zoran is a truthful person, then Kiko is a liar.\" Kiko insists \"If Zoran is an honest person, then Pierre is a truthful individual.\" Zoran maintains \"Kiko is a dishonest person.\" Who is the honest person?",
+    "choices": [
+      "A) Zoran",
+      "B) Pierre",
+      "C) Kiko",
+      "D) None"
+    ],
+    "answer": "C",
+    "explanation": "Solution: honest people: Pierre, Kiko. liars: Zoran. Each person's statement must be consistent with their nature.",
+    "token_count": 69
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Eiji says \"If Ivan is a truthful person, then Ramon is an honest individual.\" Ramon argues \"Ivan is someone who is reliable.\" Ivan insists \"If Ramon is someone who is truthful, then Eiji is someone who tells the truth.\" Who is the trustworthy person?",
+    "choices": [
+      "A) Ramon",
+      "B) Ivan",
+      "C) Eiji",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: truth-tellers: Ivan, Ramon, Eiji. Each person's statement must be consistent with their nature.",
+    "token_count": 73
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Bakari states \"If Hawa is an honest person, then Alex is an honest individual.\" Alex insists \"Bakari is someone who is dishonest.\" Brigitte believes \"Bakari is someone who lies.\" Who is the someone who is honest?",
+    "choices": [
+      "A) Bakari",
+      "B) Hawa",
+      "C) Alex",
+      "D) Brigitte"
+    ],
+    "answer": "A",
+    "explanation": "Solution: honest people: Bakari. dishonest people: Hawa, Alex, Brigitte. Each person's statement must be consistent with their nature.",
+    "token_count": 69
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Herman bought a new refrigerator for his mother Mary. Herman is happy that his daughter is doing so well. Her name is Monet. How is Monet related to Mary?",
+    "choices": [
+      "A) Father-in-law",
+      "B) Mother",
+      "C) Grandmother",
+      "D) Daughter-in-law"
+    ],
+    "answer": "C",
+    "explanation": "Based on the provided story, the relationship between Monet and Mary is 'grandmother'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Ming asserts \"Ivy is a truthful individual.\" Viktor states \"Ivy is someone who is truthful.\" Ivy maintains \"If Ming is a truth-teller, then Greta is an honest individual.\" Who is the honest person?",
+    "choices": [
+      "A) Ming",
+      "B) Greta",
+      "C) Ivy",
+      "D) Viktor"
+    ],
+    "answer": "C",
+    "explanation": "Solution: truth-tellers: Ming, Greta, Ivy, Viktor. Each person's statement must be consistent with their nature.",
+    "token_count": 60
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Osamu believes \"Celia is someone who is truthful.\" Celia claims \"If Osamu is an honest person, then Stefan is an untruthful person.\" Stefan claims \"If Celia is a reliable person, then Osamu is someone who lies.\" Who is the truth-teller?",
+    "choices": [
+      "A) Stefan",
+      "B) Celia",
+      "C) Osamu",
+      "D) None"
+    ],
+    "answer": "C",
+    "explanation": "Solution: honest people: Celia, Osamu. unreliable individuals: Stefan. Each person's statement must be consistent with their nature.",
+    "token_count": 73
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Fernando went to the baseball game with his brother Newton. Fernando went his grandfather Roy to the park to look for birds. How is Roy related to Newton?",
+    "choices": [
+      "A) Mother",
+      "B) Grandson",
+      "C) Son",
+      "D) Uncle"
+    ],
+    "answer": "B",
+    "explanation": "Based on the provided story, the relationship between Roy and Newton is 'grandson'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Bakari argues \"If Fang is someone who is honest, then Greta is a truthful individual.\" Greta claims \"If Fang is someone who is reliable, then Bakari is an honest person.\" Fang claims \"Bakari is an honest person.\" Who is the someone who is truthful?",
+    "choices": [
+      "A) Greta",
+      "B) Fang",
+      "C) Bakari",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: reliable individuals: Fang, Greta, Bakari. Each person's statement must be consistent with their nature.",
+    "token_count": 74
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Brent and his mother, Martha, planted a garden for his grandmother Mary. How is Martha related to Mary?",
+    "choices": [
+      "A) Son",
+      "B) Mother",
+      "C) Brother",
+      "D) Granddaughter"
+    ],
+    "answer": "B",
+    "explanation": "Based on the provided story, the relationship between Martha and Mary is 'mother'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Maia says \"If Viktor is a reliable person, then Emma is someone who is truthful.\" Viktor maintains \"If Emma is a trustworthy person, then Maia is someone who lies.\" Emma says \"If Viktor is someone who is truthful, then Maia is someone who is unreliable.\" Who is the someone who is honest?",
+    "choices": [
+      "A) Viktor",
+      "B) Maia",
+      "C) Emma",
+      "D) None"
+    ],
+    "answer": "C",
+    "explanation": "Solution: reliable individuals: Emma, Maia. dishonest people: Viktor. Each person's statement must be consistent with their nature.",
+    "token_count": 78
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Bao declares \"Kesi is someone who is untruthful.\" Kesi says \"Zoran is someone who is dishonest.\" Zoran believes \"If Bao is a trustworthy person, then Kesi is a liar.\" Who is the someone who is reliable?",
+    "choices": [
+      "A) Kesi",
+      "B) Zoran",
+      "C) Bao",
+      "D) None"
+    ],
+    "answer": "C",
+    "explanation": "Solution: honest people: Bao, Zoran. liars: Kesi. Each person's statement must be consistent with their nature.",
+    "token_count": 68
+  },
+  {
+    "topic": "Blood Relations and Family Tree",
+    "question": "Ann is on a bowling team with her husband, Robert and her father, John. They play every Saturday. How is John related to Robert?",
+    "choices": [
+      "A) Daughter",
+      "B) Aunt",
+      "C) Son-in-law",
+      "D) Mother-in-law"
+    ],
+    "answer": "C",
+    "explanation": "Based on the provided story, the relationship between John and Robert is 'son-in-law'."
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Rolf states \"Sato is a dishonest person.\" Sato asserts \"If Rolf is someone who is truthful, then Ulysses is someone who is reliable.\" Ulysses asserts \"If Rolf is someone who is honest, then Sato is someone who lies.\" Who tells the truth?",
+    "choices": [
+      "A) Rolf",
+      "B) Sato",
+      "C) None",
+      "D) Ulysses"
+    ],
+    "answer": "D",
+    "explanation": "Solution: reliable individuals: Ulysses, Sato. liars: Rolf. Each person's statement must be consistent with their nature.",
+    "token_count": 80
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Carlos states \"If Kira is a truthful person, then Bruno is a trustworthy person.\" Bruno believes \"Carlos is someone who is dishonest.\" Kira says \"Carlos is someone who lies.\" Who is the someone who tells the truth?",
+    "choices": [
+      "A) Carlos",
+      "B) Kira",
+      "C) Bruno",
+      "D) None"
+    ],
+    "answer": "A",
+    "explanation": "Solution: honest people: Carlos. dishonest people: Kira, Bruno. Each person's statement must be consistent with their nature.",
+    "token_count": 60
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Gabriel states \"If Demi is someone who tells the truth, then Yemi is a truth-teller.\" Yemi believes \"Demi is someone who is honest.\" Demi declares \"Gabriel is someone who is honest.\" Who is the trustworthy person?",
+    "choices": [
+      "A) Yemi",
+      "B) Demi",
+      "C) Gabriel",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: honest people: Demi, Yemi, Gabriel. Each person's statement must be consistent with their nature.",
+    "token_count": 67
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Ping believes \"If Ulysses is someone who tells the truth, then Lira is a reliable person.\" Ulysses insists \"Ping is an untruthful individual.\" Lira states \"Ulysses is someone who tells the truth.\" Who is the someone who is truthful?",
+    "choices": [
+      "A) Ulysses",
+      "B) Ping",
+      "C) Lira",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: honest people: Ping. liars: Ulysses, Lira. Each person's statement must be consistent with their nature.",
+    "token_count": 76
+  },
+  {
+    "topic": "Truth-teller and Liar Problems",
+    "question": "Zhao maintains \"Yuki is someone who is reliable.\" Yuki says \"Yemi is someone who is reliable.\" Yemi says \"If Zhao is a reliable person, then Yuki is someone who is honest.\" Who is the someone who is honest?",
+    "choices": [
+      "A) Yemi",
+      "B) Zhao",
+      "C) Yuki",
+      "D) None"
+    ],
+    "answer": "B",
+    "explanation": "Solution: honest people: Yemi, Zhao, Yuki. Each person's statement must be consistent with their nature.",
+    "token_count": 66
+  }
+]

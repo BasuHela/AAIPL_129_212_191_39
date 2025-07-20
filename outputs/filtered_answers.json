@@ -1,0 +1,79 @@
+[
+    {
+        "answer": "C",
+        "reasoning": "Carlos declares that Bjorn is an unreliable person. Aiko believes that if Carlos is a truthful individual, then Bjorn is an untrustworthy person. Since Carlos is a truthful individual, Bjorn must be a liar. Therefore, Aiko is a truthful person. Carlos is a truthful individual."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Based on the given information, the seating arrangement is Kirsten, Claire, Lamin, and David. Claire is sitting to the left of Kirsten."
+    },
+    {
+        "answer": "A",
+        "reasoning": "Mary is Loretta's grandmother. Mary is Loretta's grandmother because Mary is the mother of Laura, who is Loretta's mother. Therefore, Mary is Loretta's grandmother."
+    },
+    null,
+    {
+        "answer": "B",
+        "reasoning": "Crystal and Imelda are sisters. Sergio and Crystal are siblings. Therefore, Sergio is the brother of Imelda, making them siblings."
+    },
+    {
+        "answer": "A",
+        "reasoning": "Assume A is a reliable person. Then, B must be someone who is reliable, as A states 'B is a reliable person.' C is an unreliable person, as A states 'C is an untruthful person.' This is consistent with B's statement 'If A is a truthful individual, then C is an untruthful person.' Therefore, A and B are reliable individuals, and C is an unreliable person."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Assume B is a truthful person. Then, A must be an unreliable person, and C must be an untruthful individual. This is consistent with B's statement. If A were a truthful individual, then C would also have to be a truthful individual, which contradicts B's statement. Therefore, B must be the honest individual."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Assume A is a truthful person. Then, B must be a truthful person (as A says 'B is a truthful person'). However, B's statement 'If A is a truthful person, then C is an untruthful person' would be false, which contradicts the assumption that B is a truthful person. Therefore, A must be a liar, and B must be a truthful person."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Helen is the mother-in-law of Richard. Richard's father, James, is married to Helen. This makes Helen Richard's mother-in-law."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Michelle is the mother of Imelda. Therefore, Michelle is Imelda's daughter. D is the correct answer."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Based on the given information, the order of the people is B, A, D, E, F, C. D sits to the immediate right of A."
+    },
+    {
+        "answer": "B",
+        "reasoning": "V and X are siblings. W is X's sister. Therefore, V is W's brother."
+    },
+    {
+        "answer": "B",
+        "reasoning": "David wants to sit between Claire and Ximena. Yuki wants to sit next to Felipe. Since David is between Claire and Ximena, the order is David, Ximena, Claire, Yuki, Felipe. Therefore, David sits to the left of Ximena."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Ximena is sitting to the immediate left of Yuki. Jomo is sitting to the immediate right of Yuki. Therefore, Ximena's immediate right is Jomo."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Based on the given information, the seating arrangement is B, C, E, D, A, and F around the table. A is sitting opposite D."
+    },
+    {
+        "answer": "B",
+        "reasoning": "The seating arrangement is Y, Z, W, V, T, U, S, X. Y is seated opposite S."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Matthew and James are brothers. Dolores is James's sister. Therefore, Matthew is Dolores's brother."
+    },
+    {
+        "answer": "C",
+        "reasoning": "If Ximena is a truthful person, then Beth is an untruthful individual, which contradicts Beth's statement. If Ximena is an unreliable person, then Beth's statement that 'Chen is a truthful individual' is true. Therefore, Beth is the honest individual."
+    },
+    {
+        "answer": "A",
+        "reasoning": "Assume Aiko is a truthful person. Then Bruno must be a truthful person (as per Aiko's statement). Bruno's statement implies Carlos is a liar. This is consistent with Carlos's nature as a liar. Therefore, Aiko is the truthful individual."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Ximena and Gabriel are reliable individuals. If Gabriel is a truthful person, then Ximena is a truthful person. Zhao is an untruthful individual. Therefore, the reliable person is Gabriel."
+    }
+]
