@@ -1,242 +1,122 @@
 [
     {
-        "topic": "Truth-teller and Liar Problems",
-        "question": "You meet three people on an island where only honest people and liars exist: Aiko, Bjorn, and Carlos. Aiko says 'If Carlos is a truthful individual, then Bjorn is an untrustworthy person.' Bjorn insists 'Aiko is someone who is untruthful.' Carlos declares 'Bjorn is an unreliable person.' Who is the honest person?",
-        "choices": [
-            "A) Aiko",
-            "B) Bjorn",
-            "C) Carlos",
-            "D) Cannot be determined"
-        ],
-        "answer": "A",
-        "explanation": "Carlos believes 'Bjorn is a liar,' which makes Carlos a reliable person. Bjorn says 'Aiko is someone who is untruthful,' which makes Bjorn a dishonest person. Aiko states 'If Carlos is a truthful individual, then Bjorn is an untruthful individual.' This is consistent with Aiko being a reliable person."
-    },
-    {
         "topic": "Seating Arrangements (Linear, Circular)",
-        "question": "Kirsten, Lamin, David, and Claire are sitting around a circular table. Lamin is sitting to the right of Kirsten. David is sitting to the left of Lamin. Claire is sitting between David and Lamin. Who is sitting to the left of Kirsten?",
-        "choices": [
-            "A) David",
-            "B) Claire",
-            "C) Lamin",
-            "D) Kirsten"
-        ],
-        "answer": "A",
-        "explanation": "The arrangement is David-Kirsten-Lamin-Claire around the table. David is to the left of Kirsten."
-    },
-    {
-        "topic": "Puzzles involving generations and family tree logic",
-        "question": "Mary took her daughter, Laura, to lunch. Laura's brother, John, brought his daughter, Loretta, along for lunch. How is Loretta related to Mary?",
-        "choices": [
-            "A) Grandmother",
-            "B) Grandfather",
-            "C) Mother-in-law",
-            "D) Aunt"
-        ],
-        "answer": "A",
-        "explanation": "Mary is Loretta's grandmother. She is the mother of Loretta's mother, Laura."
-    },
-    {
-        "topic": "Puzzles involving generations and family tree logic",
-        "question": "James and his brother John went to the arcade. They had a wonderful time. James and his sister Helen went to the ice skating rink. James fell down and Helen laughed at him. Helen and her brother John went to the beach to watch the sunset. How is John related to the sunset?",
-        "choices": [
-            "A) Grandmother",
-            "B) Son-in-law",
-            "C) None",
-            "D) Uncle"
-        ],
-        "answer": "C",
-        "explanation": "John is a brother, not related to the sunset. The sunset is a natural phenomenon, not a person."
-    },
-    {
-        "topic": "Puzzles involving generations and family tree logic",
-        "question": "Sergio and his brother David were rarely seen apart. David and his sister Crystal love to go to the movies every weekend. Crystal and her sister Imelda only spend time together, not other relatives. How is Sergio related to Imelda?",
-        "choices": [
-            "A) Uncle",
-            "B) Sister",
-            "C) Niece",
-            "D) Son-in-law"
-        ],
-        "answer": "B",
-        "explanation": "Sergio and Imelda are siblings. They have the same mother, which makes Imelda Sergio's sister."
-    },
-    {
-        "topic": "Truth-teller and Liar Problems",
-        "question": "You meet three people on an island where only truth-tellers, liars, and unreliable individuals exist. A says, 'B is a reliable person.' B declares, 'If A is an honest individual, then C is an untruthful person.' C insists, 'If A is a truthful person, then B is an unreliable person.' Who is the reliable person?",
+        "question": "Six people: A, B, C, D, E, and F are sitting around a circular table. A is sitting two seats to the left of D. B is sitting between A and E. F is sitting between E and D. Who is sitting to the left of B?",
         "choices": [
             "A) A",
-            "B) C",
-            "C) B",
-            "D) Cannot be determined"
+            "B) D",
+            "C) E",
+            "D) F"
         ],
         "answer": "C",
-        "explanation": "Assume A is a truth-teller. Then B is an unreliable person (per A's statement), which contradicts B's claim that 'If A is a truthful person, then C is an unreliable person.' If A is a truthful individual, then C must be a reliable person, which contradicts B's claim. Therefore, A cannot be a truth-teller. If C is a reliable person, then B must be a reliable person (since C says 'If A is a truthful individual, then B is an unreliable person,' and B is a truth-teller, making A an unreliable person)."
+        "explanation": "The seating order around the table is A-B-E-F-D-C. E is to the left of B."
     },
     {
         "topic": "Truth-teller and Liar Problems",
-        "question": "On an island where individuals are either truth-tellers or liars, A asserts 'B is a liar.' B declares 'If A is someone who is reliable, then C is an honest individual.' C believes 'B is an untruthful person.' Who is the honest person?",
+        "question": "You meet three people on an island where only truth-tellers and liars exist: Ximena, Demi and Bruno. Ximena says 'If Demi is a truth-teller, then Bruno is a liar.' Demi argues 'Ximena is someone who is honest.' Bruno maintains 'If Demi is a truth-teller, then Ximena is a liar.' Who is the truth-teller?",
+        "choices": [
+            "A) Demi",
+            "B) Bruno",
+            "C) Ximena",
+            "D) Cannot be determined"
+        ],
+        "answer": "C",
+        "explanation": "Ximena's statement must be true because she asserts that if Demi is a truth-teller, then Bruno is a liar. Demi's statement confirms that Ximena is a truth-teller. Bruno's statement must be false because it contradicts Ximena's truthful nature."
+    },
+    {
+        "topic": "Truth-teller and Liar Problems",
+        "question": "You meet three people on an island where only truth-tellers and liars exist: Dara, Jira, and Fiona. Dara declares 'If Fiona is an honest person, then Jira is an untruthful person.' Jira asserts 'Dara is someone who is unreliable.' Fiona claims 'Dara is an honest individual.' Who is the truth-teller?",
+        "choices": [
+            "A) Jira",
+            "B) Fiona",
+            "C) Dara",
+            "D) Cannot be determined"
+        ],
+        "answer": "C",
+        "explanation": "If Fiona is a reliable person, then Dara must be a reliable person. If Dara is a reliable person, then Jira must be a liar. This is consistent. If Fiona is a liar, then Dara must be a liar, which means Jira is a truth-teller. This contradicts Fiona's claim that Dara is someone who is reliable. Therefore, Fiona and Dara must be reliable people."
+    },
+    {
+        "topic": "Truth-teller and Liar Problems",
+        "question": "You meet three people on an island where knights (truth-tellers) and liars (unreliable individuals) exist. A states 'If B is a truthful person, then C is an unreliable person.' B asserts 'If A is a truth-teller, then C is someone who is unreliable.' C declares 'B is someone who is honest.' Who is the reliable person?",
         "choices": [
             "A) A",
             "B) B",
             "C) C",
-            "D) Cannot be determined"
+            "D) A and C"
         ],
         "answer": "B",
-        "explanation": "Assume A is a truthful individual. Then, B must be a liar. If B is a dishonest individual, his statement 'If A is a truthful individual, then C is a truthful person' must be false. This implies A is a truthful individual, and C is an untruthful individual. However, this contradicts C's claim that B is an untruthful individual. Thus, B must be a truthful individual."
-    },
-    {
-        "topic": "Truth-teller and Liar Problems",
-        "question": "You meet three people on an island where each person is either a truth-teller or a liar. A says, 'B is an honest person.' B says, 'If A is a truthful person, then C is an untruthful person.' C asserts, 'If A is a reliable person, then B is a dishonest individual.' Who is the reliable person?",
-        "choices": [
-            "A) A",
-            "B) C",
-            "C) B",
-            "D) D"
-        ],
-        "answer": "C",
-        "explanation": "Assume A is a truthful person. Then B must be a truthful individual (from A's statement). But B's statement contradicts this assumption, as B says 'If A is a truthful person, then C is a dishonest person.' This is a contradiction, so A cannot be a truthful person. If B is a truthful person, then A must be a liar, and C must be an unreliable person. This is consistent with all statements. Therefore, B is the truthful person."
-    },
-    {
-        "topic": "Puzzles involving generations and family tree logic",
-        "question": "Ingrid and her husband James went to visit her mother Helen over the weekend. James's son Richard was busy at work and could not join them. How is Richard related to Helen?",
-        "choices": [
-            "A) Father",
-            "B) Mother-in-law",
-            "C) Grandmother",
-            "D) Son-in-law"
-        ],
-        "answer": "C",
-        "explanation": "Ingrid is the daughter of Helen. Richard is the son of James. Helen is the mother of Ingrid, making Helen Richard's grandmother."
-    },
-    {
-        "topic": "Puzzles involving generations and family tree logic",
-        "question": "Dolores's son, James, was playing in the pool with his sister, Imelda. James's mother, Michelle, called out for him to come inside. How is Michelle related to Imelda?",
-        "choices": [
-            "A) Grandson",
-            "B) Daughter-in-law",
-            "C) Grandmother",
-            "D) Daughter"
-        ],
-        "answer": "D",
-        "explanation": "Imelda is the daughter of Michelle. Michelle is the mother of Imelda. Therefore, Michelle is Imelda's mother."
+        "explanation": "Assume B is an untrustworthy person. Then C is an untruthful person. A's statement would then be true, making A a truthful individual. This contradicts the assumption that B is an honest individual. If B is a truthful person, then C is a reliable person, and A is someone who is unreliable. This is consistent with all statements."
     },
     {
         "topic": "Seating Arrangements (Linear, Circular)",
-        "question": "In a row of six people, A, B, C, D, E, and F, D sits to the immediate right of B. A sits second to the left of D. E sits between D and F. Who sits to the immediate right of A?",
+        "question": "In a row of seven houses, seven families live: Ben, David, Eiji, Frank, Grace, Imani, and Jomo. Imani lives in the third house. Jomo lives in the second house. Frank lives directly next to Imani. Grace lives in the middle house. Who lives in the first house?",
         "choices": [
-            "A) D",
-            "B) E",
-            "C) F",
-            "D) B"
-        ],
-        "answer": "D",
-        "explanation": "The order is B-A-D-E-F-C. D is to the immediate right of A."
-    },
-    {
-        "topic": "Seating Arrangements (Linear, Circular)",
-        "question": "Five friends\u2014X, Y, Z, W, and V\u2014gathered at a cafe for brunch. Z and Y are siblings and are very close. X and W are siblings, but are not as close. Z called his wife, Y, to tell her the good news of his pregnancy. They were going to throw a party to celebrate. V and X are arguing over who is the better basketball player. How is V related to W?",
-        "choices": [
-            "A) Uncle",
-            "B) Sister",
-            "C) Mother-in-law",
-            "D) Nephew"
-        ],
-        "answer": "B",
-        "explanation": "Y is the sister of X. V is the brother of X. Therefore, V is the brother of Y."
-    },
-    {
-        "topic": "Seating Arrangements (Linear, Circular)",
-        "question": "Five friends\u2014Ximena, David, Yuki, Felipe, and Claire\u2014go to a restaurant and want to sit together. They have a circular table with five seats. Felipe wants to sit next to Yuki. Claire wants to sit next to Felipe. David wants to sit between Claire and Ximena. Who sits to the left of Ximena?",
-        "choices": [
-            "A) Yuki",
+            "A) Ben",
             "B) David",
-            "C) Claire",
-            "D) Felipe"
-        ],
-        "answer": "B",
-        "explanation": "The arrangement must be Yuki-Felipe-Claire-David-Ximena. David sits to the left of Ximena."
-    },
-    {
-        "topic": "Seating Arrangements (Linear, Circular)",
-        "question": "Five friends\u2014Ximena, Yuki, Zuri, Jomo, and Viet\u2014go to a dinner theater. They sit in a row of five seats. Jomo is sitting to the immediate right of Yuki. Zuri is sitting to the immediate right of Jomo. Ximena is sitting to the immediate left of Yuki. Who is sitting to the immediate right of Ximena?",
-        "choices": [
-            "A) Viet",
-            "B) Yuki",
-            "C) Zuri",
+            "C) Imani",
             "D) Jomo"
         ],
-        "answer": "A",
-        "explanation": "Ximena sits to the left of Yuki. Zuri sits to the right of Jomo, who sits to the right of Yuki. This makes Ximena's right neighbor Viet."
+        "answer": "C",
+        "explanation": "Grace is in the middle house, which is the fourth house. Imani is in the third house. Jomo is in the second house. Ben is in the first house. David is in the fifth house. Frank is in the sixth house."
     },
     {
         "topic": "Seating Arrangements (Linear, Circular)",
-        "question": "Six friends\u2014A, B, C, D, E, and F\u2014are sitting around a circular table facing the center. B is sitting opposite D. C is sitting to the immediate right of B. E is sitting second to the left of D. A is not an immediate neighbor of C. Who is sitting opposite A?",
+        "question": "Seven friends\u2014X, Y, Z, A, B, C, D\u2014gathered at a dinner. They sat around a circular table, each with a seat. A sat to the immediate right of Y. Z sat between A and B. X sat between D and Z. Who sat to the immediate left of A?",
         "choices": [
-            "A) B",
-            "B) C",
-            "C) D",
-            "D) E"
+            "A) Y",
+            "B) D",
+            "C) B",
+            "D) X"
         ],
-        "answer": "D",
-        "explanation": "Place B at the table. D must be opposite B. C is to the immediate right of B. E is second to the left of D. With these positions fixed, there are two empty seats. The condition that A is not an immediate neighbor of C forces A into the seat between D and E. The final seat must be occupied by F. The final arrangement is B-C-F-D-E-A in a circle. In this configuration, A is sitting directly opposite E."
-    },
-    {
-        "topic": "Seating Arrangements (Linear, Circular)",
-        "question": "On a circular table, 8 people are seated: X, Y, Z, W, V, U, T, and S. Y is seated between X and Z. W is seated between Z and V. T is seated between V and U. Who is seated opposite Y?",
-        "choices": [
-            "A) U",
-            "B) S",
-            "C) V",
-            "D) T"
-        ],
-        "answer": "A",
-        "explanation": "The seating order is X, Y, Z, W, V, U, T, S. Each person is seated opposite the person three seats away. Y is seated between X and Z. U is seated opposite Y."
+        "answer": "B",
+        "explanation": "The seating order is D-X-Z-A-B-Y. A's immediate left is Z. Y's immediate right is A. D's immediate right is X. X's immediate right is Z."
     },
     {
         "topic": "Puzzles involving generations and family tree logic",
-        "question": "Dolores and her brother James went to the park. James's brother John went with them. John and his brother Matthew went to the football game together. How is Matthew related to Dolores?",
+        "question": "Amalia and her brother Billy went to the basketball game and had a great time. Billy's sister Sandy was too young to go. Vanessa was eager to see her niece, Sandy. She was hoping to get presents from her. How is Vanessa related to Amalia?",
         "choices": [
-            "A) Grandfather",
-            "B) Daughter",
-            "C) Sister",
-            "D) Grandmother"
-        ],
-        "answer": "C",
-        "explanation": "John and Matthew are brothers. Dolores is John's sister. Therefore, Dolores is Matthew's sister."
-    },
-    {
-        "topic": "Truth-teller and Liar Problems",
-        "question": "You meet three individuals: Ximena, Chen, and Beth. Chen asserts 'If Ximena is a truth-teller, then Beth is a truthful person.' Beth maintains 'If Ximena is a truthful individual, then Chen is an untruthful person.' Ximena states 'Chen is an unreliable person.' Who is the honest individual?",
-        "choices": [
-            "A) Ximena",
-            "B) Chen",
-            "C) Beth",
-            "D) Cannot be determined"
-        ],
-        "answer": "B",
-        "explanation": "Assume Ximena is a truthful individual. Then, according to her, Chen is an untrustworthy person. However, this contradicts Beth's claim that Chen is an unreliable person. If Ximena is a truthful person, then Beth must be a reliable person, which contradicts Chen's claim. Therefore, Ximena must be an unreliable person. This makes Beth and Chen honest individuals. Since Beth and Chen are reliable individuals, they must be truthful. Thus, Chen is the truthful individual."
-    },
-    {
-        "topic": "Truth-teller and Liar Problems",
-        "question": "You meet three people on an island where truth-tellers and liars coexist: Aiko, Carlos, and Bruno. Aiko declares 'Bruno is an honest person.' Bruno argues 'If Aiko is someone who is truthful, then Carlos is a liar.' Carlos says 'If Aiko is someone who is truthful, then Bruno is someone who lies.' Who is the truthful individual?",
-        "choices": [
-            "A) Aiko",
-            "B) Carlos",
-            "C) Bruno",
-            "D) Cannot be determined"
+            "A) Sister",
+            "B) Mother-in-law",
+            "C) Grandson",
+            "D) Son-in-law"
         ],
         "answer": "A",
-        "explanation": "If Aiko is a truth-teller, then Bruno is a truthful individual. This makes Carlos a dishonest person, which is consistent with his statement. If Aiko is a liar, then Bruno is an unreliable person, making Carlos a truth-teller. This contradicts Bruno's statement, which must be true if he is an honest individual. Therefore, Aiko must be a truth-teller."
+        "explanation": "Vanessa and Amalia are sisters. They have the same mother, which makes them sisters."
     },
     {
         "topic": "Truth-teller and Liar Problems",
-        "question": "You meet three individuals: Ximena, Gabriel, and Zhao. Ximena claims 'If Gabriel is a truthful individual, then Zhao is someone who is untruthful.' Gabriel asserts 'Ximena is a truthful person.' Zhao believes 'Ximena is an unreliable person.' Who is the reliable person?",
+        "question": "You meet three people: Ximena, Dmitri, and Carlos. Ximena believes 'If Dmitri is a truthful person, then Carlos is a dishonest person.' Carlos states 'Ximena is an untruthful individual.' Dmitri says 'Ximena is a truthful individual.' Who is the truthful individual?",
         "choices": [
-            "A) Zhao",
-            "B) Ximena",
-            "C) Gabriel",
+            "A) Dmitri",
+            "B) Carlos",
+            "C) Ximena",
+            "D) None"
+        ],
+        "answer": "C",
+        "explanation": "Dmitri says Ximena is someone who tells the truth. Ximena says if Dmitri is a truthful person, then Carlos is an untruthful individual. Carlos says Ximena is an untruthful individual. If Dmitri is a truthful individual, then Ximena's statement must be true, making Carlos a dishonest individual. This is consistent with all statements."
+    },
+    {
+        "topic": "Seating Arrangements (Linear, Circular)",
+        "question": "Seven friends\u2014A, B, C, D, E, F, and G\u2014go to a party and sit around a circular table. A sits between E and B. F sits between A and D. C is the only person between D and E. Who is sitting opposite E?",
+        "choices": [
+            "A) B",
+            "B) F",
+            "C) D",
+            "D) C"
+        ],
+        "answer": "D",
+        "explanation": "The arrangement is E-F-A-B-D-C-G. E is directly across from C."
+    },
+    {
+        "topic": "Truth-teller and Liar Problems",
+        "question": "You meet three people on an island where only honest people and liars exist: Aiko, Stefan, and Hugo. Stefan says 'If Aiko is a truthful individual, then Hugo is someone who is untruthful.' Aiko maintains 'Stefan is a truthful person.' Hugo maintains 'Stefan is an untruthful person.' Who is the honest person?",
+        "choices": [
+            "A) Hugo",
+            "B) Aiko",
+            "C) Stefan",
             "D) Cannot be determined"
         ],
         "answer": "B",
-        "explanation": "Ximena's statement must be true if she is a truthful individual. If Gabriel is a truthful individual, then Zhao must be an unreliable person, which is consistent with Ximena's claim. If Ximena is a reliable person, then Gabriel must be someone who is honest, and Zhao must be an unreliable person. Therefore, Ximena is the reliable person."
+        "explanation": "If Aiko is a truthful person, then Stefan's statement 'If Aiko is a truthful individual, then Hugo is someone who is untruthful' must be true. This makes Hugo a liar. If Aiko is an untruthful person, then Stefan's statement must be false, which means Hugo is someone who is truthful. This contradicts Aiko's truthfulness. Therefore, Aiko is a truthful individual, Stefan is someone who is truthful, and Hugo is a liar."
     }
 ]

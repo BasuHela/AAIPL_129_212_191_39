@@ -1,7 +1,7 @@
 max_new_tokens: 512
-temperature: 0.1 # as answer should be deterministic
+temperature: 0.2 # as answer should be deterministic
 top_p: 0.95
-repetition_penalty: 1.2
+repetition_penalty: 1.0
 do_sample: true
 
 # remove temperature and top_p when do_sample=false (i.e., for deterministic approach with greedy output)

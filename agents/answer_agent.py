@@ -189,7 +189,7 @@ if __name__ == "__main__":
     with open(args.input_file, 'r') as f:
         sample_questions = json.load(f)
     
-    agent = AnsweringAgent(select_prompt1=SELECT_PROMPT1,adapter_type='sft')
+    agent = AnsweringAgent(select_prompt1=SELECT_PROMPT1,adapter_type=None)
     
     # gen_kwargs = {"tgps_show": True, "max_new_tokens": 512, "temperature": 0.1, "top_p": 0.9, "do_sample": True}
     gen_kwargs = {"tgps_show": True}
